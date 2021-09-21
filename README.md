@@ -8,6 +8,7 @@ A collection of [Homescreen](https://docs.siasky.net/integrations/homescreen)  A
 [Rift](https://github.com/riftdweb/rift)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQBLTOv9uMFcNR_NRooBc6Rv7jb4it1cozkWEApU3roLEQ)|Decentralized workspace with file editing, social feeds, video streaming, and more.
 |[SkySend](https://github.com/redsolver/skysend)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQDikuO5szw9nTHZvvm0jT_iwRIJ74UqyvReNwHePAkqBQ)|Secure, private way to send and share files.
 [SkyTransfer](https://github.com/kamy22/skytransfer)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ)|Minimal but powerful file sharing platform with AES encryption.
+[SkyGallery](https://github.com/Delivator/SkyGallery)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag)|Media gallery that allows users to share pictures and videos.
 
 ## Resources
 * [Adding Homescreen support to your app](https://docs.siasky.net/integrations/homescreen/adding-homescreen-support-to-an-app)
