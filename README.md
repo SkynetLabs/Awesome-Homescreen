@@ -3,6 +3,18 @@
 A collection of [Homescreen](https://docs.siasky.net/integrations/homescreen)  Awesomeness
 
 
+| Applications | Add to Your Homescreen | Description |
+|:-----:|:----------------------:|:----------- |
+[HackerPaste](https://github.com/harej/hackerpaste)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/_AGCc4-wHTEscwQXTox_95VsHjl-GEwrc7rxGhMXCPStRg)|Is a one-of-a-kind text snippet sharing tool, secure by design and built for the decentralized web.
+[Luckysheet](https://github.com/mengshukeji/Luckysheet)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EADnlXoc12LEl8qrW5hi299C-T87OgHLt4TitCGHz24sVw)|Luckysheet (Demo only) is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+[miniPaint](https://github.com/viliusle/miniPaint)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/FADH7_3zsv63F3yvEy5U9OJ8vRpGI-Hb6djT6LB8r3JlpA)|Online Photoshop alternative lets you create, edit images using HTML5 technologies.
+[Rift](https://github.com/riftdweb/rift)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EAD7S3bPStozkTtNtzPwFZ2flVP8r2ZXsfyk31Uw4DdOvA)|Decentralized workspace with file editing, social feeds, video streaming, and more.
+[SkyChat](https://github.com/redsolver/SkyChat)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/NAAa5PaPLSnOLbZawBVR1nXKBKfpwV7-1eqq90IsUWe7uw)|SkyChat is a decentralized chat platform inspired by discord and slack.
+|[SkySend](https://github.com/redsolver/skysend)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQDikuO5szw9nTHZvvm0jT_iwRIJ74UqyvReNwHePAkqBQ)|Secure, private way to send and share files.
+[SkyTransfer](https://github.com/kamy22/skytransfer)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ)|Minimal but powerful file sharing platform with AES encryption.
+[SkyGallery](https://github.com/Delivator/SkyGallery)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag)|Media gallery that allows users to share pictures and videos.
+[Uniswap](https://github.com/Uniswap/interface)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/OAATgfw9igDV45sy9JVkEcLP2-fG049F8Bmkgt3\_KVVG7Q)|An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
+
 | Games | Add to Your Homescreen | Description |
 |:-----:|:----------------------:|:----------- |
 [Chess 3D](https://github.com/FrenchYann/Chess3D)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/GABOrzJon-Yq0mpeZgPrI7-4AIWdd3m2xnh7sUn5wfTXCg)|3D Chess Game built with HTML5 and WebGL.
@@ -14,18 +26,6 @@ A collection of [Homescreen](https://docs.siasky.net/integrations/homescreen)  A
 [SkySweeper](https://github.com/ShizukuIchi/minesweeper)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/_ABMRO8tMiwlJSrPaZx1qNRqwRcSwSbL7s_tRCjuI-3yQA)|Minesweepr in React + Hooks.
 [VoxLords](https://github.com/Lallassu/VoxLords)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/HAE8TUMjKIC8XUT8DgGnFIKNWjz5AAs8-hDw3-_a0jub2A)|VoxLords is a ThreeJS WebGL game with a simple voxel engine.
 [X-Wing](https://github.com/amilajack/xwing)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EACXzs0a5cRTncUdlDBR7pVNH2GE8SYJo1Og7eW4BC0Zyg)|A WebGL of a classic game powered by three.js.
-
-| Games | Add to Your Homescreen | Description |
-|:-----:|:----------------------:|:----------- |
-[HackerPaste](https://github.com/harej/hackerpaste)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/_AGCc4-wHTEscwQXTox_95VsHjl-GEwrc7rxGhMXCPStRg)|Is a one-of-a-kind text snippet sharing tool, secure by design and built for the decentralized web.
-[Luckysheet](https://github.com/mengshukeji/Luckysheet)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EADnlXoc12LEl8qrW5hi299C-T87OgHLt4TitCGHz24sVw)|Luckysheet (Demo only) is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-[miniPaint](https://github.com/viliusle/miniPaint)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/FADH7_3zsv63F3yvEy5U9OJ8vRpGI-Hb6djT6LB8r3JlpA)|Online Photoshop alternative lets you create, edit images using HTML5 technologies.
-[Rift](https://github.com/riftdweb/rift)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EAD7S3bPStozkTtNtzPwFZ2flVP8r2ZXsfyk31Uw4DdOvA)|Decentralized workspace with file editing, social feeds, video streaming, and more.
-[SkyChat](https://github.com/redsolver/SkyChat)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/NAAa5PaPLSnOLbZawBVR1nXKBKfpwV7-1eqq90IsUWe7uw)|SkyChat is a decentralized chat platform inspired by discord and slack.
-|[SkySend](https://github.com/redsolver/skysend)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQDikuO5szw9nTHZvvm0jT_iwRIJ74UqyvReNwHePAkqBQ)|Secure, private way to send and share files.
-[SkyTransfer](https://github.com/kamy22/skytransfer)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ)|Minimal but powerful file sharing platform with AES encryption.
-[SkyGallery](https://github.com/Delivator/SkyGallery)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag)|Media gallery that allows users to share pictures and videos.
-[Uniswap](https://github.com/Uniswap/interface)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/OAATgfw9igDV45sy9JVkEcLP2-fG049F8Bmkgt3\_KVVG7Q)|An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
 
 ## Resources
 * [Adding Homescreen support to your app](https://docs.siasky.net/integrations/homescreen/adding-homescreen-support-to-an-app)
