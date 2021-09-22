@@ -15,9 +15,8 @@ A collection of [Homescreen](https://docs.siasky.net/integrations/homescreen)  A
 [SkyGallery](https://github.com/Delivator/SkyGallery)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag)|Media gallery that allows users to share pictures and videos.
 [Uniswap](https://github.com/Uniswap/interface)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/OAATgfw9igDV45sy9JVkEcLP2-fG049F8Bmkgt3\_KVVG7Q)|An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
 
-
 | Games | Add to Your Homescreen | Description |
-|:----:|:----------------------:|:----------- |
+|:-----:|:----------------------:|:----------- |
 [Chess 3D](https://github.com/FrenchYann/Chess3D)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/GABOrzJon-Yq0mpeZgPrI7-4AIWdd3m2xnh7sUn5wfTXCg)|3D Chess Game built with HTML5 and WebGL.
 [DuckHut](https://github.com/MattSurabian/DuckHunt-JS)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AACZtsENph46a9J76iZLsYiicnvSVWHbbI9rYv6HiclQVg)|DuckHunt in Javascript and HTML5.
 [Pacman](https://github.com/luciopanepinto/pacman)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/_AgROblixmfuihDeteR9EC1h3HFMRNy-kbdoOmKvUMNd1Q)|Pac-Man game written in HTML5 + CSS3 + jQuery with Canvas.
