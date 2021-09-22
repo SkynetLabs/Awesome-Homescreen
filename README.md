@@ -4,7 +4,7 @@ A collection of [Homescreen](https://docs.siasky.net/integrations/homescreen)  A
 
 | Web OS | Add to Your Homescreen | Description |
 |:------:|:----------------------:|:----------- |
-[SkyOS](https://github.com/redsolver)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/GAAJKh7ZrYueuV0gWbFQ6Dng54IEsy2jnD9-RDbDSnZEbA)|Web-based OS for Skynet.
+[SkyOS](https://github.com/redsolver)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/fAQt_1QDswGHfiGcMU70FcnAJIsMFcEz-qDbHTuJPgrBbA)|Web-based OS for Skynet.
 
 | Applications | Add to Your Homescreen | Description |
 |:------------:|:----------------------:|:----------- |
