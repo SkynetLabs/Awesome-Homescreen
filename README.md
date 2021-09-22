@@ -4,7 +4,7 @@ A collection of [Homescreen](https://docs.siasky.net/integrations/homescreen)  A
 
 
 | Apps | Add to Your Homescreen | Description |
-|:-----------:|:----------------------:|:----------- |
+|:----:|:----------------------:|:----------- |
 [HackerPaste](https://github.com/harej/hackerpaste)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/_AGCc4-wHTEscwQXTox_95VsHjl-GEwrc7rxGhMXCPStRg)|Is a one-of-a-kind text snippet sharing tool, secure by design and built for the decentralized web.
 [Luckysheet](https://github.com/mengshukeji/Luckysheet)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EADnlXoc12LEl8qrW5hi299C-T87OgHLt4TitCGHz24sVw)|Luckysheet (Demo only) is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 [miniPaint](https://github.com/viliusle/miniPaint)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/FADH7_3zsv63F3yvEy5U9OJ8vRpGI-Hb6djT6LB8r3JlpA)|Online Photoshop alternative lets you create, edit images using HTML5 technologies.
