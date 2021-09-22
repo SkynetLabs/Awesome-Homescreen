@@ -19,7 +19,7 @@ A collection of [Homescreen](https://docs.siasky.net/integrations/homescreen)  A
 [SkyGallery](https://github.com/Delivator/SkyGallery)|App|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag)|Media gallery that allows users to share pictures and videos.
 [Uniswap](https://github.com/Uniswap/interface)|App|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/OAATgfw9igDV45sy9JVkEcLP2-fG049F8Bmkgt3\_KVVG7Q)|An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
 [VoxLords](https://github.com/Lallassu/VoxLords)|Game|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/HAE8TUMjKIC8XUT8DgGnFIKNWjz5AAs8-hDw3-_a0jub2A)|VoxLords is a ThreeJS WebGL game with a simple voxel engine.
-[X-Wing](https://github.com/amilajack/xwing)|Game|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EACXzs0a5cRTncUdlDBR7pVNH2GE8SYJo1Og7eW4BC0Zyg)|A WebGL of a classic game powered by three.js
+[X-Wing](https://github.com/amilajack/xwing)|Game|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/EACXzs0a5cRTncUdlDBR7pVNH2GE8SYJo1Og7eW4BC0Zyg)|A WebGL of a classic game powered by three.js.
 
 ## Resources
 * [Adding Homescreen support to your app](https://docs.siasky.net/integrations/homescreen/adding-homescreen-support-to-an-app)
