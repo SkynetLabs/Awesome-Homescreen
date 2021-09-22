@@ -43,5 +43,5 @@ When contributing, please keep in mind the following guidelines:
 
 Please use the following format: 
 
-`[PROJECT NAME](LINK TO REPO)|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/RESOLVER SKYLINK)|DESCRIPTION.`
+`[PROJECT NAME](LINK TO REPO)|CATEGORY|[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/RESOLVER SKYLINK)|DESCRIPTION.`
 
