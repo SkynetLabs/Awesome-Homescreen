@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  generate-markdown:
+  generate-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
