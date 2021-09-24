@@ -1,0 +1,13 @@
+{
+    "name": "Awesome-Homescreen",
+    "version": "1.0.0",
+    "description": "List of Awesome Apps available for Homescreen",
+    "main": "index.js",
+    "repository": "git@github.com:SkynetLabs/Awesome-Homescreen.git",
+    "author": "Skynet Labs <devs@siasky.net>",
+    "license": "MIT",
+    "dependencies": {
+        "json-to-table": "^4.2.1",
+        "markdown-table": "^1.0.0"
+    }
+}

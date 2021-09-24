@@ -1,0 +1,43 @@
+name: Generate README
+
+on:
+  push:
+    # We don't want to update the README again on main
+    branches-ignore:
+      - main
+
+jobs:
+  generate-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # Helper for grabbing the branch name
+      - uses: nelonoel/branch-name@v1.0.1
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
+
+      # Install node modules for gen.js script
+      - name: Install Dependencies
+        run: npm install
+
+      # Debug
+      - name: Show Branch Name
+        run: echo ${BRANCH_NAME}
+
+      # Generate the new Markdown for the README
+      - name: Generate README
+        run: |
+          cat utils/README_head.md > README.md
+          node utils/gen.js >> README.md
+          cat utils/README_tail.md >> README.md
+
+      # Commit the Updates to the README
+      - name: Update README
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: README.md
+          commit-msg: Update README from Github Actions
+          branch: ${{ env.BRANCH_NAME }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
