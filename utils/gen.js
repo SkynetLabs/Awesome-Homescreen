@@ -35,7 +35,7 @@ console.log(officialAppsMarkdown);
 
 // Log the Header for the Unofficial Apps sections
 console.log("### Unofficial Apps");
-console.log("Below is a list of unsupported apps that can be used as examples of what can be supported on homescreen. These should not be considered production apps.");
+console.log("Below is a list of unofficial apps that can be used as examples of what can be supported on Homescreen. These should not be considered production apps.");
 
 // Log the unofficial apps
 console.log(unofficialAppsMarkdown);
