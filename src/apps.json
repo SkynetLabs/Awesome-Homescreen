@@ -4,33 +4,73 @@
     "author": "https://github.com/harej",
     "resolverSkylink": "_AGCc4-wHTEscwQXTox_95VsHjl-GEwrc7rxGhMXCPStRg",
     "description": "Is a one-of-a-kind text snippet sharing tool, secure by design and built for the decentralized web.",
-    "tags": []
+    "tags": ["skynet", "documents"]
 }, {
     "applicationName": "Rift",
     "repoLink": "https://github.com/riftdweb/rift",
     "author": "https://github.com/alexfreska",
     "resolverSkylink": "EAD7S3bPStozkTtNtzPwFZ2flVP8r2ZXsfyk31Uw4DdOvA",
     "description": "Decentralized workspace with file editing, social feeds, video streaming, and more.",
-    "tags": []
+    "tags": ["skynet", "dev tool"]
 }, {
     "applicationName": "SkyGallery",
     "repoLink": "https://github.com/Delivator/SkyGallery",
     "author": "https://github.com/Delivator",
     "resolverSkylink": "AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag",
     "description": "Media gallery that allows users to share pictures and videos.",
-    "tags": []
+    "tags": ["skynet", "images"]
 }, {
     "applicationName": "SkySend",
     "repoLink": "https://github.com/redsolver/skysend",
     "author": "https://github.com/redsolver",
     "resolverSkylink": "AQDikuO5szw9nTHZvvm0jT_iwRIJ74UqyvReNwHePAkqBQ",
     "description": "Secure, private way to send and share files.",
-    "tags": []
+    "tags": ["skynet", "file sharing"]
 }, {
     "applicationName": "SkyTransfer",
     "repoLink": "https://github.com/kamy22/skytransfer",
     "author": "https://github.com/kamy22",
     "resolverSkylink": "AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ",
     "description": "Minimal but powerful file sharing platform with AES encryption.",
-    "tags": []
+    "tags": ["skynet", "file sharing"]
+}, {
+    "applicationName": "Arbitrum Bridge",
+    "repoLink": "https://github.com/dghelm/arb-token-bridge/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDhEMjRuvKdECC_cibQ-fUUm7RjRjiZyXotgc2UGFAmuA",
+    "description": "Arbitrum L1/L2 Token Bridge",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Balancer",
+    "repoLink": "https://github.com/dghelm/frontend-v2/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQARd_BL9z0i3Gj4yzUBZ7EDZbgkCgZ6XSuTDn0IiPUuQA",
+    "description": "Swap tokens and manage your assets on Balancer Protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Compound",
+    "repoLink": "https://github.com/dghelm/palisade/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
+    "description": "Supply or borrow assets from the Compound protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Osmosis",
+    "repoLink": "https://github.com/dghelm/osmosis-frontend/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDqitdFxUxwpXUGvfn3FS-x90OdaUR_b80v3pldJiYx5w",
+    "description": "The first IBC-native Cosmos interchain AMM.",
+    "unofficial": true,
+    "tags": ["cosmos", "defi"]
+}, {
+    "applicationName": "Uniswap",
+    "repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
+    "author": "https://github.com/SkynetLabs/",
+    "resolverSkylink": "AQBTlVUdVT_qLqqA_4umNe8aiO6KxoGbfvWzEEk0OyvF7w",
+    "description": "Swap or provide liquidity on the Uniswap Protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
 }]

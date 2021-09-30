@@ -6,7 +6,8 @@ const markdownTable = require('markdown-table');
 const apps = require('../src/apps.json');
 
 // Build New Object
-let appsForMarkdown = [];
+let officialApps = [];
+let unofficialApps = [];
 let addToHomescreen = "[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/"
 apps.forEach((app) => {
     // Build fields
@@ -14,13 +15,27 @@ apps.forEach((app) => {
     jsonData['Application'] = "[" + app.applicationName + "](" + app.repoLink + ")";
     jsonData['Add To Homescreen'] = addToHomescreen + app.resolverSkylink + ")";
     jsonData['Description'] = app.description;
-    appsForMarkdown.push(jsonData);
+    if (app.unofficial) {
+        unofficialApps.push(jsonData);
+    } else {
+        officialApps.push(jsonData);
+    }
 })
 
 // Convert json to table
-const appsTabled = jsonToTable(appsForMarkdown);
+const officialAppsTabled = jsonToTable(officialApps);
+const unofficialAppsTabled = jsonToTable(unofficialApps);
 
 // Convert table to markdown
-const appsMarkdown = markdownTable(appsTabled, { align: ['c', 'c', 'l'] })
+const officialAppsMarkdown = markdownTable(officialAppsTabled, { align: ['c', 'c', 'l'] })
+const unofficialAppsMarkdown = markdownTable(unofficialAppsTabled, { align: ['c', 'c', 'l'] })
 
-console.log(appsMarkdown);
+// Log the official apps
+console.log(officialAppsMarkdown);
+
+// Log the Header for the Unofficial Apps sections
+console.log("### Unofficial Apps");
+console.log("Below is a list of unofficial apps that can be used as examples of what can be supported on Homescreen. These should not be considered production apps.");
+
+// Log the unofficial apps
+console.log(unofficialAppsMarkdown);
