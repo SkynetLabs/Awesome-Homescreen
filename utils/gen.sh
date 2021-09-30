@@ -3,6 +3,12 @@
 #
 # Paths are relative and assume that the script is run from the root directory
 # of the project.
+
+# Write the Header of the Readme File
 cat utils/README_head.md > README.md
+
+# Write the markdown apps table
 node utils/gen.js >> README.md
+
+# Write the tail end of the Readme File
 cat utils/README_tail.md >> README.md
