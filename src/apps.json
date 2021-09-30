@@ -33,4 +33,36 @@
     "resolverSkylink": "AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ",
     "description": "Minimal but powerful file sharing platform with AES encryption.",
     "tags": []
+}, {
+    "applicationName": "Arbitrum Bridge",
+    "repoLink": "https://github.com/dghelm/arb-token-bridge/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDhEMjRuvKdECC_cibQ-fUUm7RjRjiZyXotgc2UGFAmuA",
+    "description": "Arbitrum L1/L2 Token Bridge",
+    "unofficial": true,
+    "tags": []
+}, {
+    "applicationName": "Compound",
+    "repoLink": "https://github.com/dghelm/palisade/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
+    "description": "Supply or borrow assets from the Compound protocol.",
+    "unofficial": true,
+    "tags": []
+}, {
+    "applicationName": "Osmosis",
+    "repoLink": "https://github.com/dghelm/osmosis-frontend/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDqitdFxUxwpXUGvfn3FS-x90OdaUR_b80v3pldJiYx5w",
+    "description": "The first IBC-native Cosmos interchain AMM.",
+    "unofficial": true,
+    "tags": []
+}, {
+    "applicationName": "Uniswap",
+    "repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
+    "author": "https://github.com/SkynetLabs/",
+    "resolverSkylink": "AQBTlVUdVT_qLqqA_4umNe8aiO6KxoGbfvWzEEk0OyvF7w",
+    "description": "Swap or provide liquidity on the Uniswap Protocol.",
+    "unofficial": true,
+    "tags": []
 }]
