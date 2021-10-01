@@ -58,6 +58,14 @@
     "unofficial": true,
     "tags": ["ethereum", "defi"]
 }, {
+    "applicationName": "Gnosis Safe",
+    "repoLink": "https://github.com/dghelm/safe-react",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQAXVtJqddODZhYGXgnSPDspB4_ggilsJvFBNBFkl-m5VQ",
+    "description": "Allowing crypto users to manage funds in a safer way.",
+    "unofficial": true,
+    "tags": ["ethereum", "dao"]
+}, {
     "applicationName": "Osmosis",
     "repoLink": "https://github.com/dghelm/osmosis-frontend/",
     "author": "https://github.com/dghelm",
