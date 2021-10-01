@@ -66,6 +66,14 @@
     "unofficial": true,
     "tags": ["cosmos", "defi"]
 }, {
+    "applicationName": "Swapr",
+    "repoLink": "https://github.com/dghelm/dxswap-dapp",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQA78StqX5ahskjK2i340c3_46RnIf3FwGicsGuZVjaTfQ",
+    "description": "Decentralized exchange governed by the DXdao.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi", "dxdao"]
+}, {
     "applicationName": "Uniswap",
     "repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
     "author": "https://github.com/SkynetLabs/",
