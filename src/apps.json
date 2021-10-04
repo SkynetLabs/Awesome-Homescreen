@@ -58,6 +58,14 @@
     "unofficial": true,
     "tags": ["ethereum", "defi"]
 }, {
+    "applicationName": "Gnosis Safe",
+    "repoLink": "https://github.com/dghelm/safe-react",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQAXVtJqddODZhYGXgnSPDspB4_ggilsJvFBNBFkl-m5VQ",
+    "description": "Allowing crypto users to manage funds in a safer way.",
+    "unofficial": true,
+    "tags": ["ethereum", "dao"]
+}, {
     "applicationName": "Osmosis",
     "repoLink": "https://github.com/dghelm/osmosis-frontend/",
     "author": "https://github.com/dghelm",
@@ -65,6 +73,14 @@
     "description": "The first IBC-native Cosmos interchain AMM.",
     "unofficial": true,
     "tags": ["cosmos", "defi"]
+}, {
+    "applicationName": "Swapr",
+    "repoLink": "https://github.com/dghelm/dxswap-dapp",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQA78StqX5ahskjK2i340c3_46RnIf3FwGicsGuZVjaTfQ",
+    "description": "Decentralized exchange governed by the DXdao.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi", "dxdao"]
 }, {
     "applicationName": "Uniswap",
     "repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
