@@ -50,6 +50,22 @@
     "unofficial": true,
     "tags": ["ethereum", "defi"]
 }, {
+    "applicationName": "Basic Calculator",
+    "repoLink": "https://github.com/skunk-ink/Calculator",
+    "author": "https://github.com/Doppy12345",
+    "resolverSkylink": "AQAGUouhot5ni_x0-NEKfQiEliOaiXUaEDY6FleNJsQ_kA",
+    "description": "A web based calculator.",
+    "unofficial": true,
+    "tags": ["skynet", "utilities"]
+}, {
+    "applicationName": "Chess3D",
+    "repoLink": "https://github.com/skunk-ink/Chess3D",
+    "author": "https://github.com/FrenchYann",
+    "resolverSkylink": "AQBi7_Ln252WtwaI2UcMBdAV46uc9ALUQJ-ITe005LjXUg",
+    "description": "3D Chess Game built with HTML5 and WebGL.",
+    "unofficial": true,
+    "tags": ["skynet", "games"]
+}, {
     "applicationName": "Compound",
     "repoLink": "https://github.com/dghelm/palisade/",
     "author": "https://github.com/dghelm",
@@ -57,6 +73,22 @@
     "description": "Supply or borrow assets from the Compound protocol.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Duck Hunt",
+    "repoLink": "https://github.com/skunk-ink/DuckHunt-JS",
+    "author": "https://github.com/MattSurabian",
+    "resolverSkylink": "AQDgyujLpv2i_nHer2pi3prtNNe-g1ghs6rm3D6baD9AyQ",
+    "description": "DuckHunt in Javascript and HTML5.",
+    "unofficial": true,
+    "tags": ["skynet", "games"]
+}, {
+    "applicationName": "Luckysheet",
+    "repoLink": "https://github.com/skunk-ink/Luckysheet",
+    "author": "https://github.com/mengshukeji",
+    "resolverSkylink": "AQC0wIqnX1fHedyGmsJKTCosSfNqH_qZpUMt1oq2viTRTg",
+    "description": "Luckysheet (Demo only) is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "unofficial": true,
+    "tags": ["skynet", "documents"]
 }, {
     "applicationName": "Gnosis Safe",
     "repoLink": "https://github.com/dghelm/safe-react",
@@ -73,6 +105,38 @@
     "description": "The first IBC-native Cosmos interchain AMM.",
     "unofficial": true,
     "tags": ["cosmos", "defi"]
+}, {
+    "applicationName": "Scientific Calculator",
+    "repoLink": "https://github.com/skunk-ink/scientific-calculator",
+    "author": "https://github.com/wahaaabello",
+    "resolverSkylink": "AQAnLl4CdbO58-RQonia4vkiy_xC47ObCWqxRSn_jFw7EA",
+    "description": "A web-based scientific calculator written with HTML, CSS & JavaScript.",
+    "unofficial": true,
+    "tags": ["skynet", "utilities"]
+}, {
+    "applicationName": "SkySolitare",
+    "repoLink": "https://github.com/skunk-ink/solitare3",
+    "author": "https://github.com/MrBomar",
+    "resolverSkylink": "AQDptyePRHP9N6sxJmaeXu_va3tCUgRuUSxUhSIYlNq22A",
+    "description": "Web based version of Solitare.",
+    "unofficial": true,
+    "tags": ["skynet", "games"]
+}, {
+    "applicationName": "SkySweeper",
+    "repoLink": "https://github.com/skunk-ink/skysweeper",
+    "author": "https://github.com/ShizukuIchi",
+    "resolverSkylink": "AQAnA2L-CmnbuT8qkcSZ1Xkk89zXJ7Ak-QsBcrL9rdnzqg",
+    "description": "Minesweepr in React + Hooks.",
+    "unofficial": true,
+    "tags": ["skynet", "games"]
+}, {
+    "applicationName": "SVG-Edit",
+    "repoLink": "https://github.com/skunk-ink/svgedit",
+    "author": "https://github.com/SVG-Edit",
+    "resolverSkylink": "AQByWTNclNJp2ndsoE1BTonfgSt85KIPHO49m8Tewjw7mA",
+    "description": "SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.",
+    "unofficial": true,
+    "tags": ["skynet", "graphics"]
 }, {
     "applicationName": "Swapr",
     "repoLink": "https://github.com/dghelm/dxswap-dapp",
