@@ -20,6 +20,13 @@
     "description": "Media gallery that allows users to share pictures and videos.",
     "tags": ["skynet", "images"]
 }, {
+    "applicationName": "SkyProfile",
+    "repoLink": "https://github.com/skynethubio/SkyProfile",
+    "author": "https://github.com/skynethubio",
+    "resolverSkylink": "AQDtUqr62iymhTzEUReRpJ4-2RC2ZKqKlGOM7xc-0iPhOw",
+    "description": "MySky user profile management app.",
+    "tags": ["skynet", "utilities"]
+}, {
     "applicationName": "SkySend",
     "repoLink": "https://github.com/redsolver/skysend",
     "author": "https://github.com/redsolver",
