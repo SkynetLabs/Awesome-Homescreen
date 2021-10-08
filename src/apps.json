@@ -24,7 +24,7 @@
     "repoLink": "https://github.com/skynethubio/SkyProfile",
     "author": "https://github.com/skynethubio",
     "resolverSkylink": "AQDtUqr62iymhTzEUReRpJ4-2RC2ZKqKlGOM7xc-0iPhOw",
-    "description": "Skynet App to manage your MySky user profile.",
+    "description": "MySky user profile management app.",
     "tags": ["skynet", "utilities"]
 }, {
     "applicationName": "SkySend",
