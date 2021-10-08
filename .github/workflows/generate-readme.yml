@@ -1,10 +1,7 @@
 name: Generate README
 
 on:
-  push:
-    # We don't want to update the README again on main
-    branches-ignore:
-      - main
+  pull_request:
 
 jobs:
   generate-readme:
