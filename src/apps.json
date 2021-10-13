@@ -98,6 +98,14 @@
     "description": "SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.",
     "tags": ["skynet", "graphics"]
 }, {
+    "applicationName": "Aave",
+    "repoLink": "https://github.com/dghelm/aave-ui/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQC5-5u4WrNjpS58r4U3vEP5P1MbNnAzPIY-rxDfcvB77A",
+    "description": "Non-custodial liquidity protocol",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
     "applicationName": "Arbitrum Bridge",
     "repoLink": "https://github.com/dghelm/arb-token-bridge/",
     "author": "https://github.com/dghelm",
