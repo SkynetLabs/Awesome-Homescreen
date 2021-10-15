@@ -1,5 +1,7 @@
 name: Deploy to Skynet
 
+# Trigger on push events so the branch name helper picks up the correct branch
+# name
 on:
   push:
 
@@ -26,8 +28,11 @@ jobs:
       # Generate the iconPaths for the apps, write the new app data to apps.json
       # and run prettier
       - name: Create IconPaths
+        # Fix write data to a temp file and then replace the original.
         run: |
-          node utils/genIconUrl.js > src/apps.json
+          node utils/genIconUrl.js > src/apps.json_temp
+          rm src/apps.json
+          mv src/apps.json_temp src/apps.json
           npx prettier --write src/apps.json
 
       # Generate the new Markdown for the README
