@@ -9,10 +9,49 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
+      # Helper for grabbing the branch name
+      - uses: nelonoel/branch-name@v1.0.1
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
 
+      # Install node modules for scripts
+      - name: Install Dependencies
+        run: npm install
+
+      # Debug
+      - name: Show Branch Name
+        run: echo ${BRANCH_NAME}
+
+      # Generate the iconPaths for the apps, write the new app data to apps.json
+      # and run prettier
+      - name: Create IconPaths
+        run: |
+          node utils/genIconUrl.js > src/apps.json
+          npx prettier --write src/apps.json
+
+      # Generate the new Markdown for the README
+      - name: Generate README
+        run: |
+          cat utils/README_head.md > README.md
+          node utils/genMarkdown.js >> README.md
+          cat utils/README_tail.md >> README.md
+
+      # Commit the Updates
+      - name: Update README and apps.json
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: |
+            src/apps.json  
+            README.md
+          commit-msg: Update README and apps.json from Github Actions
+          branch: ${{ env.BRANCH_NAME }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Upload apps.json to skynet
       - name: Deploy to Skynet
         uses: skynetlabs/deploy-to-skynet-action@main
         with:
