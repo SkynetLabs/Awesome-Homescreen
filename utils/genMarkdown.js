@@ -9,7 +9,7 @@ const apps = require("../src/apps.json");
 let officialApps = [];
 let unofficialApps = [];
 let addToHomescreen =
-  "[![Add to Homescreen](https://siasky.net/CADKZ7bTyVRjMmyMnEsUKDidqdmdaNHaJP25cp_3YGQlkg)](https://homescreen.hns.siasky.net/#/skylink/";
+  "[![Add to Homescreen](https://img.shields.io/static/v1?logo=skynet&label=Skynet&labelColor=0d0d0d&message=Add%20to%20Homescreen&color=00c65e)](https://homescreen.hns.siasky.net/#/skylink/";
 apps.forEach((app) => {
   // Build fields for README
   let jsonData = {};

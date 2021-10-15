@@ -64,29 +64,45 @@ async function getIconUrl(skylink) {
       return;
     }
 
-    // Grab the relative path to the manifest file from the manifest link
-    // tag
-    const manifestPath = manifestTag.getAttribute("href");
+    // Use URL to get the manifestPath as this will clean it. We don't grab
+    // the url created as it doesn't include the skylink.
+    const { pathname: manifestPath } = new URL(
+      manifestTag.getAttribute("href"),
+      skylinkUrl
+    );
 
-    // Generate the manifestUrl and query the manifest
-    const manifestUrl = skylinkUrl + "/" + manifestPath.replace("./", "");
-    const manifestResponse = await got(manifestUrl);
+    // Create the manifestUrl
+    const manifestUrl = skylinkUrl + manifestPath;
+
     // Grab the json of the manifest
+    const manifestResponse = await got(manifestUrl);
     const manifest = JSON.parse(manifestResponse.body);
+
     // Grab the iconPath or the src path of the first icon listed if they
     // are present
     const icon = manifest.icons[0].src || manifest.iconPath || undefined;
     if (!icon) {
       return;
     }
-    // Generate the iconPath
-    const iconPath = icon.replace("./", "");
+
+    // Generate the iconUrl and iconPath
+    const { href: iconUrl, pathname: iconPath } = new URL(icon, manifestUrl);
+
+    // Check if the skylink is in the iconPath, for some reason it is not
+    // always present. I'm not sure if it is because of some characters in
+    // the skylink impacting the new URL method.
+    let newIconPath = iconPath;
+    let newIconUrl = iconUrl;
+    if (!newIconUrl.includes(skylink)) {
+      newIconPath = "/" + skylink + newIconPath;
+      newIconUrl = portal + newIconPath;
+    }
+
     // Query the iconUrl to confirm it is valid
-    const iconUrl = skylinkUrl + "/" + iconPath;
-    await got(iconUrl);
+    await got(newIconUrl);
 
     // Return the iconPath
-    return iconPath;
+    return newIconPath.replace(`/${skylink}`, "");
   } catch (error) {
     return;
   }
