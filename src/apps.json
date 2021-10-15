@@ -112,6 +112,15 @@
     "tags": ["skynet", "graphics"]
   },
   {
+    "applicationName": "Aave",
+    "repoLink": "https://github.com/dghelm/aave-ui/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQC5-5u4WrNjpS58r4U3vEP5P1MbNnAzPIY-rxDfcvB77A",
+    "description": "Non-custodial liquidity protocol",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+  },
+  {
     "applicationName": "Arbitrum Bridge",
     "repoLink": "https://github.com/dghelm/arb-token-bridge/",
     "author": "https://github.com/dghelm",
@@ -139,6 +148,15 @@
     "tags": ["ethereum", "defi"]
   },
   {
+    "applicationName": "ENS Manager",
+    "repoLink": "https://github.com/dghelm/ens-app",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQCGKp2BulowHzXAnkwJBeest8l2VDoaXR2G5mjyu5qqqA",
+    "description": "Decentralised naming for wallets, websites, & more.",
+    "unofficial": true,
+    "tags": ["ethereum"]
+  },
+  {
     "applicationName": "Gnosis Safe",
     "repoLink": "https://github.com/dghelm/safe-react",
     "author": "https://github.com/dghelm",
@@ -155,6 +173,15 @@
     "description": "The first IBC-native Cosmos interchain AMM.",
     "unofficial": true,
     "tags": ["cosmos", "defi"]
+  },
+  {
+    "applicationName": "PancakeSwap",
+    "repoLink": "https://github.com/dghelm/pancake-frontend",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQB3fb5XvcNuNLvB76ycl5Pvm-k0NKMzKUZx_beg3jaPWQ",
+    "description": "Farm CAKE with Pancake LP Tokens",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
   },
   {
     "applicationName": "Swapr",
