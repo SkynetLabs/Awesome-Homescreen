@@ -8,7 +8,7 @@
 cat utils/README_head.md > README.md
 
 # Write the markdown apps table
-node utils/gen.js >> README.md
+node utils/genMarkdown.js >> README.md
 
 # Write the tail end of the Readme File
 cat utils/README_tail.md >> README.md

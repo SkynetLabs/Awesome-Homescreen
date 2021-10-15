@@ -19,5 +19,3 @@ When contributing, please keep in mind the following guidelines:
 - Projects should be organized in ascending alphanumeric order i.e. a-z, 0-9.
 - End the description with a full stop/period.
 - Check that your text editor is set to remove trailing whitespace.
-
-

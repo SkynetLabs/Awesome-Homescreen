@@ -1,111 +1,117 @@
-[{
-
+[
+  {
     "applicationName": "Basic Calculator",
     "repoLink": "https://github.com/skunk-ink/Calculator",
     "author": "https://github.com/Doppy12345",
     "resolverSkylink": "AQAGUouhot5ni_x0-NEKfQiEliOaiXUaEDY6FleNJsQ_kA",
     "description": "A web based calculator.",
     "tags": ["skynet", "utilities"]
-}, {
+  },
+  {
     "applicationName": "Chess3D",
     "repoLink": "https://github.com/skunk-ink/Chess3D",
     "author": "https://github.com/FrenchYann",
     "resolverSkylink": "AQBi7_Ln252WtwaI2UcMBdAV46uc9ALUQJ-ITe005LjXUg",
     "description": "3D Chess Game built with HTML5 and WebGL.",
     "tags": ["skynet", "games"]
-}, {
+  },
+  {
     "applicationName": "Duck Hunt",
     "repoLink": "https://github.com/skunk-ink/DuckHunt-JS",
     "author": "https://github.com/MattSurabian",
     "resolverSkylink": "AQDgyujLpv2i_nHer2pi3prtNNe-g1ghs6rm3D6baD9AyQ",
     "description": "DuckHunt in Javascript and HTML5.",
     "tags": ["skynet", "games"]
-}, {
+  },
+  {
     "applicationName": "HackerPaste",
     "repoLink": "https://github.com/harej/hackerpaste",
     "author": "https://github.com/harej",
     "resolverSkylink": "_AGCc4-wHTEscwQXTox_95VsHjl-GEwrc7rxGhMXCPStRg",
     "description": "Is a one-of-a-kind text snippet sharing tool, secure by design and built for the decentralized web.",
     "tags": ["skynet", "documents"]
-}, {
+  },
+  {
     "applicationName": "Luckysheet",
     "repoLink": "https://github.com/skunk-ink/Luckysheet",
     "author": "https://github.com/mengshukeji",
     "resolverSkylink": "AQC0wIqnX1fHedyGmsJKTCosSfNqH_qZpUMt1oq2viTRTg",
     "description": "Luckysheet (Demo only) is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
     "tags": ["skynet", "documents"]
-}, {
+  },
+  {
     "applicationName": "Rift",
     "repoLink": "https://github.com/riftdweb/rift",
     "author": "https://github.com/alexfreska",
     "resolverSkylink": "EAD7S3bPStozkTtNtzPwFZ2flVP8r2ZXsfyk31Uw4DdOvA",
     "description": "Decentralized workspace with file editing, social feeds, video streaming, and more.",
     "tags": ["skynet", "dev tool"]
-}, {
+  },
+  {
     "applicationName": "Scientific Calculator",
     "repoLink": "https://github.com/skunk-ink/scientific-calculator",
     "author": "https://github.com/wahaaabello",
     "resolverSkylink": "AQAnLl4CdbO58-RQonia4vkiy_xC47ObCWqxRSn_jFw7EA",
     "description": "A web-based scientific calculator written with HTML, CSS & JavaScript.",
     "tags": ["skynet", "utilities"]
-}, {
+  },
+  {
     "applicationName": "SkyGallery",
     "repoLink": "https://github.com/Delivator/SkyGallery",
     "author": "https://github.com/Delivator",
     "resolverSkylink": "AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag",
     "description": "Media gallery that allows users to share pictures and videos.",
     "tags": ["skynet", "images"]
-}, {
+  },
+  {
     "applicationName": "SkyProfile",
     "repoLink": "https://github.com/skynethubio/SkyProfile",
     "author": "https://github.com/skynethubio",
     "resolverSkylink": "AQDtUqr62iymhTzEUReRpJ4-2RC2ZKqKlGOM7xc-0iPhOw",
     "description": "MySky user profile management app.",
     "tags": ["skynet", "utilities"]
-}, {
+  },
+  {
     "applicationName": "SkySend",
     "repoLink": "https://github.com/redsolver/skysend",
     "author": "https://github.com/redsolver",
     "resolverSkylink": "AQDikuO5szw9nTHZvvm0jT_iwRIJ74UqyvReNwHePAkqBQ",
     "description": "Secure, private way to send and share files.",
     "tags": ["skynet", "file sharing"]
-}, {
+  },
+  {
     "applicationName": "SkySolitare",
     "repoLink": "https://github.com/skunk-ink/solitare3",
     "author": "https://github.com/MrBomar",
     "resolverSkylink": "AQDptyePRHP9N6sxJmaeXu_va3tCUgRuUSxUhSIYlNq22A",
     "description": "Web based version of Solitare.",
     "tags": ["skynet", "games"]
-}, {
+  },
+  {
     "applicationName": "SkySweeper",
     "repoLink": "https://github.com/skunk-ink/skysweeper",
     "author": "https://github.com/ShizukuIchi",
     "resolverSkylink": "AQAnA2L-CmnbuT8qkcSZ1Xkk89zXJ7Ak-QsBcrL9rdnzqg",
     "description": "Minesweepr in React + Hooks.",
     "tags": ["skynet", "games"]
-}, {
+  },
+  {
     "applicationName": "SkyTransfer",
     "repoLink": "https://github.com/kamy22/skytransfer",
     "author": "https://github.com/kamy22",
     "resolverSkylink": "AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ",
     "description": "Minimal but powerful file sharing platform with AES encryption.",
     "tags": ["skynet", "file sharing"]
-}, {
+  },
+  {
     "applicationName": "SVG-Edit",
     "repoLink": "https://github.com/skunk-ink/svgedit",
     "author": "https://github.com/SVG-Edit",
     "resolverSkylink": "AQByWTNclNJp2ndsoE1BTonfgSt85KIPHO49m8Tewjw7mA",
     "description": "SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.",
     "tags": ["skynet", "graphics"]
-}, {
-    "applicationName": "Aave",
-    "repoLink": "https://github.com/dghelm/aave-ui/",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQC5-5u4WrNjpS58r4U3vEP5P1MbNnAzPIY-rxDfcvB77A",
-    "description": "Non-custodial liquidity protocol",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
-}, {
+  },
+  {
     "applicationName": "Arbitrum Bridge",
     "repoLink": "https://github.com/dghelm/arb-token-bridge/",
     "author": "https://github.com/dghelm",
@@ -113,7 +119,8 @@
     "description": "Arbitrum L1/L2 Token Bridge",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
-}, {
+  },
+  {
     "applicationName": "Balancer",
     "repoLink": "https://github.com/dghelm/frontend-v2/",
     "author": "https://github.com/dghelm",
@@ -121,7 +128,8 @@
     "description": "Swap tokens and manage your assets on Balancer Protocol.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
-}, {
+  },
+  {
     "applicationName": "Compound",
     "repoLink": "https://github.com/dghelm/palisade/",
     "author": "https://github.com/dghelm",
@@ -129,15 +137,8 @@
     "description": "Supply or borrow assets from the Compound protocol.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
-}, {
-    "applicationName": "ENS Manager",
-    "repoLink": "https://github.com/dghelm/ens-app",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQCGKp2BulowHzXAnkwJBeest8l2VDoaXR2G5mjyu5qqqA",
-    "description": "Decentralised naming for wallets, websites, & more.",
-    "unofficial": true,
-    "tags": ["ethereum"]
-}, {
+  },
+  {
     "applicationName": "Gnosis Safe",
     "repoLink": "https://github.com/dghelm/safe-react",
     "author": "https://github.com/dghelm",
@@ -145,7 +146,8 @@
     "description": "Allowing crypto users to manage funds in a safer way.",
     "unofficial": true,
     "tags": ["ethereum", "dao"]
-}, {
+  },
+  {
     "applicationName": "Osmosis",
     "repoLink": "https://github.com/dghelm/osmosis-frontend/",
     "author": "https://github.com/dghelm",
@@ -153,15 +155,8 @@
     "description": "The first IBC-native Cosmos interchain AMM.",
     "unofficial": true,
     "tags": ["cosmos", "defi"]
-}, {
-    "applicationName": "PancakeSwap",
-    "repoLink": "https://github.com/dghelm/pancake-frontend",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQB3fb5XvcNuNLvB76ycl5Pvm-k0NKMzKUZx_beg3jaPWQ",
-    "description": "Farm CAKE with Pancake LP Tokens",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
-}, {
+  },
+  {
     "applicationName": "Swapr",
     "repoLink": "https://github.com/dghelm/dxswap-dapp",
     "author": "https://github.com/dghelm",
@@ -169,7 +164,8 @@
     "description": "Decentralized exchange governed by the DXdao.",
     "unofficial": true,
     "tags": ["ethereum", "defi", "dxdao"]
-}, {
+  },
+  {
     "applicationName": "Uniswap",
     "repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
     "author": "https://github.com/SkynetLabs/",
@@ -177,4 +173,5 @@
     "description": "Swap or provide liquidity on the Uniswap Protocol.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
-}]
+  }
+]
