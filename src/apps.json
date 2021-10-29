@@ -123,9 +123,17 @@
     "tags": ["ethereum", "defi"]
 }, {
     "applicationName": "Compound",
-    "repoLink": "https://github.com/dghelm/palisade/",
+    "repoLink": "https://github.com/dghelm/cowswap/",
     "author": "https://github.com/dghelm",
     "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
+    "description": "A trading interface built on Gnosis Protocol v2.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "CowSwap",
+    "repoLink": "https://github.com/dghelm/palisade/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA",
     "description": "Supply or borrow assets from the Compound protocol.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
