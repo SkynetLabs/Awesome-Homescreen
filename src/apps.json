@@ -185,4 +185,12 @@
     "description": "Swap or provide liquidity on the Uniswap Protocol.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "DmmExchange",
+    "repoLink": "https://github.com/mrsinguyen/dmm-interface",
+    "author": "https://github.com/dynamic-amm",
+    "resolverSkylink": "AQA1WVjlBWmxxa2gLFFhcY7q2cYOZx12GB2mF4cYUKKAkw",
+    "description": "DmmExchange is DeFi’s first Dynamic Market Maker.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
 }]
