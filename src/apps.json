@@ -49,6 +49,13 @@
     "description": "A web-based scientific calculator written with HTML, CSS & JavaScript.",
     "tags": ["skynet", "utilities"]
 }, {
+    "applicationName": "SkyDocs",
+    "repoLink": "https://github.com/michielpost/SkyDocs",
+    "author": "https://github.com/michielpost",
+    "resolverSkylink": "AQD0HWOp8klMl6SnFfDMKeggvBN9Kaf_8enri-XEhtZYGw",
+    "description": "Decentralized document editor.",
+    "tags": ["skynet", "documents"]
+}, {
     "applicationName": "SkyGallery",
     "repoLink": "https://github.com/Delivator/SkyGallery",
     "author": "https://github.com/Delivator",
