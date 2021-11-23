@@ -187,7 +187,6 @@
     "tags": ["ethereum", "defi"]
 }, {
     "applicationName": "Word Counter",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQDP77GcO9OeNiC3Obxv64VeJbmfCx4_N8XAmI0ONZKTXA",
     "description": "Count words, characters, lines, sentences and reading time",
@@ -195,23 +194,12 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Word Counter",
-    // "repoLink": "",
-    // "author": "stellballe",
     "resolverSkylink": "AQDBJ5NVtaXehjTKM_ru1PbLY1LQNh0i_hxNojSlCtFQFA",
     "description": "Analyse your texts.",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
-    "applicationName": "File Converter",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
-    // "resolverSkylink": "AQBTlVUdVT_qLqqA_4umNe8aiO6KxoGbfvWzEEk0OyvF7w",
-    // "description": "Bingothon Winner.",
-    "callout": true,
-    "tags": ["bingothon-1"]
-}, {
     "applicationName": "PDF Editor",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQB0OcDJjnuZRS57IhghjVlW5rF3IIIsHQtY3llCibhPTA",
     "description": "Add images, signatures, text to your PDF. All is done in your browser!",
@@ -219,7 +207,6 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skynet Presenter",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQDWobMwM-_XCbu4VR7QoqR0NhjXvfdbrj70qqix5JIeVg",
     "description": "Share and present PDF or ODP presentations on Skynet",
@@ -227,7 +214,6 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Colllaborative Text Editor",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQD_6XyRye9Bl3l-_T2ZegXb5yRLTtg36MsjUFnS6ikA5g",
     "description": "Collaborative, end-to-end-encrypted, decentralized text editor",
@@ -235,23 +221,18 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skynet Markdown Editor",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQCkn7GlKQ2zg0Qf9rEdnfqqKloXsXCOYQeP6KQhVN79-Q",
     "description": "Bingothon Winner #1 for Markdown Renderer",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Markdown Editor",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQCjrEre4zfRzE1u9sn9cNEBdk4E4lX67StMJkdC35Uh-Q",
     "description": "Bingothon Winner #2 for Markdown Renderer",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Manga/Comic Reader",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQBs95YOXE73a5FtHUggwoUXHsKBF1lprojnpHKKQK540w",
     "description": "Bingothon Winner.",
@@ -259,24 +240,18 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "FancyText",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQAndLpYJ3MZB8kAZOPw8ex9pJzW6Pj9UvVMyKNkNXUbQw",
     "description": "Generate fancy text",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Screen Recorder",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQCS3QlOBgS44roh3C-wxG_-iNjb3sHt7NQbLqHuvBHY2A",
     "description": "Easily record and share your screen with the world!",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Audio",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQDxen0EsgB6iEmWDifu5bupr9j98VESiLxvkPUqaQ7HbA",
     "description": "Record and play audio files",
     "callout": true,
@@ -291,31 +266,24 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skynet Image Editor",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQCEtWIE3ZEaGk6kbg_3Zn0egOj1wZRWufpLc89FVnVFcQ",
     "description": "Winner of Bingothon 1: Image Editor",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skynet Meme Generator",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQCz0CswdiNXYXp28wcBnrZP5c2pshsf58AD9o3IB6EI5w",
     "description": "Winner of Bingothon 1: Meme Generator",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skynet Starting Guide",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQCIcIe2dq4na7MA5Tu7GBdekAgABBj4Z6Q8_2TcmrD0AQ",
     "description": "A guide for new users and developers alike!",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skyfile Explorer",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQCUMfoh0_AD7TIhn5YtNwhg-SjA9XpIa72MxOJDLS0u2Q",
     "description": "Explore all types of Skylinks",
@@ -323,7 +291,6 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Feed Reader",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQCRv_BRd6te7p9dKq09LKF8lm5b4tsbui5aVfb9ZWl9FQ",
     "description": "Follow content posted on Skynet!",
@@ -331,7 +298,6 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Friend Manager",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQD8LbcC5RpnQejO-7bBb1RWOwC881RN3UMK62QpNbx0Dg",
     "description": "Discover new people on Skynet and follow them!",
@@ -339,39 +305,30 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "JSONParser",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQDSk2A2WU90V_9Kz4bJNf66z4a9PJZ5qPTzgrBMcNwP_w",
     "description": "Paste your JSON and see it presented in a pretty format!",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "JSON Formatter",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQD4tpSYA4eKuoA80zmQlizf2-4jCAmE0O35jl6fcE1Alg",
     "description": "A little JSON formatter and syntax highlighter",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "SkyTalk",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQAbE0gU_4SRZo-mlLFf4kA8Q2QXkfakK3oTH-Vuie7yCg",
     "description": "Encrypted chat on Skynet",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skynet Crypto Price Tracker",
-    // "repoLink": "",
-    // "author": "https://github.com/SkynetLabs/",
     "resolverSkylink": "AQBQDct4njofUHRFMq7mLM_lSd90EamZYtiO4iWaWa_49A",
     "description": "Winner of Bingothon 1: Cryptoasset Price Tracking Tool",
     "callout": true,
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Skysend v4",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQBnCuv4UsAkEGGk6D_enHDsvwY0hdU-IidHCbzbsh2iOA",
     "description": "An open source, highly secure, private and decentralized way to send and share your files.",
@@ -379,7 +336,6 @@
     "tags": ["bingothon-1"]
 }, {
     "applicationName": "Image Gallery",
-    // "repoLink": "",
     "author": "https://github.com/redsolver/",
     "resolverSkylink": "AQBpspTnMy1QIZf2Ygfh0BOVeqlfnt8-pOfsUFJ-7_85YQ",
     "description": "Upload, browse and share images, fully end-to-end-encrypted",
