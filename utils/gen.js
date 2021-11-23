@@ -52,8 +52,8 @@ console.log(
   'Below is a list of entries from the first [Skynet Bingothon](https://github.com/SkynetLabs/SkynetBingothon1)! These apps were made in a single weekend and are great utilities for everyday Homescreen usage.'
 );
 
-// Log the unofficial apps
-console.log(unofficialAppsMarkdown);
+// Log the callout apps
+console.log(calloutAppsMarkdown);
 
 // Log the Header for the Unofficial Apps sections
 console.log('### Unofficial Apps');
