@@ -10,6 +10,16 @@
     "iconPath": "/favicon64.png"
   },
   {
+    "applicationName": "Aave",
+    "repoLink": "https://github.com/dghelm/aave-ui/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQC5-5u4WrNjpS58r4U3vEP5P1MbNnAzPIY-rxDfcvB77A",
+    "description": "Non-custodial liquidity protocol",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"],
+    "iconPath": "/favicon64.png"
+  },
+  {
     "applicationName": "Arbitrum Bridge",
     "repoLink": "https://github.com/dghelm/arb-token-bridge/",
     "author": "https://github.com/dghelm",
@@ -18,6 +28,34 @@
     "unofficial": true,
     "tags": ["ethereum", "defi"],
     "iconPath": "/logo.png"
+  },
+  {
+    "applicationName": "Arbitrum Bridge",
+    "repoLink": "https://github.com/dghelm/arb-token-bridge/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDhEMjRuvKdECC_cibQ-fUUm7RjRjiZyXotgc2UGFAmuA",
+    "description": "Arbitrum L1/L2 Token Bridge",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"],
+    "iconPath": "/logo.png"
+  },
+  {
+    "applicationName": "Audio",
+    "resolverSkylink": "AQDxen0EsgB6iEmWDifu5bupr9j98VESiLxvkPUqaQ7HbA",
+    "description": "Record and play audio files",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/192x192.png"
+  },
+  {
+    "applicationName": "Balancer",
+    "repoLink": "https://github.com/dghelm/frontend-v2/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQARd_BL9z0i3Gj4yzUBZ7EDZbgkCgZ6XSuTDn0IiPUuQA",
+    "description": "Swap tokens and manage your assets on Balancer Protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"],
+    "iconPath": "/favicon.ico"
   },
   {
     "applicationName": "Balancer",
@@ -48,11 +86,40 @@
     "iconPath": "/img/192x192_App_Icon.png"
   },
   {
+    "applicationName": "Colllaborative Text Editor",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQD_6XyRye9Bl3l-_T2ZegXb5yRLTtg36MsjUFnS6ikA5g",
+    "description": "Collaborative, end-to-end-encrypted, decentralized text editor",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
+  },
+  {
     "applicationName": "Compound",
     "repoLink": "https://github.com/dghelm/palisade/",
     "author": "https://github.com/dghelm",
     "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
     "description": "Supply or borrow assets from the Compound protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"],
+    "iconPath": "/images/compound-192.png"
+  },
+  {
+    "applicationName": "Compound",
+    "repoLink": "https://github.com/dghelm/palisade/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA",
+    "description": "Supply or borrow assets from the Compound protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"],
+    "iconPath": "/images/logo-square-192.png"
+  },
+  {
+    "applicationName": "CowSwap",
+    "repoLink": "https://github.com/dghelm/cowswap/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
+    "description": "A trading interface built on Gnosis Protocol v2.",
     "unofficial": true,
     "tags": ["ethereum", "defi"],
     "iconPath": "/images/compound-192.png"
@@ -77,6 +144,52 @@
     "iconPath": "/favicon.ico"
   },
   {
+    "applicationName": "ENS Manager",
+    "repoLink": "https://github.com/dghelm/ens-app",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQCGKp2BulowHzXAnkwJBeest8l2VDoaXR2G5mjyu5qqqA",
+    "description": "Decentralised naming for wallets, websites, & more.",
+    "unofficial": true,
+    "tags": ["ethereum"],
+    "iconPath": "/favicon.ico"
+  },
+  {
+    "applicationName": "FancyText",
+    "resolverSkylink": "AQAndLpYJ3MZB8kAZOPw8ex9pJzW6Pj9UvVMyKNkNXUbQw",
+    "description": "Generate fancy text",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/192x192.png"
+  },
+  {
+    "applicationName": "Feed Reader",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQCRv_BRd6te7p9dKq09LKF8lm5b4tsbui5aVfb9ZWl9FQ",
+    "description": "Follow content posted on Skynet!",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
+  },
+  {
+    "applicationName": "Friend Manager",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQD8LbcC5RpnQejO-7bBb1RWOwC881RN3UMK62QpNbx0Dg",
+    "description": "Discover new people on Skynet and follow them!",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
+  },
+  {
+    "applicationName": "Gnosis Safe",
+    "repoLink": "https://github.com/dghelm/safe-react",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQAXVtJqddODZhYGXgnSPDspB4_ggilsJvFBNBFkl-m5VQ",
+    "description": "Allowing crypto users to manage funds in a safer way.",
+    "unofficial": true,
+    "tags": ["ethereum", "dao"],
+    "iconPath": "/favicon.ico"
+  },
+  {
     "applicationName": "Gnosis Safe",
     "repoLink": "https://github.com/dghelm/safe-react",
     "author": "https://github.com/dghelm",
@@ -96,6 +209,31 @@
     "iconPath": "/static/android-chrome-192x192.png"
   },
   {
+    "applicationName": "Image Gallery",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQBpspTnMy1QIZf2Ygfh0BOVeqlfnt8-pOfsUFJ-7_85YQ",
+    "description": "Upload, browse and share images, fully end-to-end-encrypted",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
+  },
+  {
+    "applicationName": "JSON Formatter",
+    "resolverSkylink": "AQD4tpSYA4eKuoA80zmQlizf2-4jCAmE0O35jl6fcE1Alg",
+    "description": "A little JSON formatter and syntax highlighter",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/favicon-16x16.png"
+  },
+  {
+    "applicationName": "JSONParser",
+    "resolverSkylink": "AQDSk2A2WU90V_9Kz4bJNf66z4a9PJZ5qPTzgrBMcNwP_w",
+    "description": "Paste your JSON and see it presented in a pretty format!",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
+  },
+  {
     "applicationName": "Luckysheet",
     "repoLink": "https://github.com/skunk-ink/Luckysheet",
     "author": "https://github.com/mengshukeji",
@@ -103,6 +241,23 @@
     "description": "Luckysheet (Demo only) is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
     "tags": ["skynet", "documents"],
     "iconPath": "/images/192x192_App_Icon.png"
+  },
+  {
+    "applicationName": "Manga/Comic Reader",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQBs95YOXE73a5FtHUggwoUXHsKBF1lprojnpHKKQK540w",
+    "description": "Bingothon Winner.",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
+  },
+  {
+    "applicationName": "Markdown Editor",
+    "resolverSkylink": "AQCjrEre4zfRzE1u9sn9cNEBdk4E4lX67StMJkdC35Uh-Q",
+    "description": "Bingothon Winner #2 for Markdown Renderer",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/editoricon.svg"
   },
   {
     "applicationName": "Osmosis",
@@ -113,6 +268,35 @@
     "unofficial": true,
     "tags": ["cosmos", "defi"],
     "iconPath": "/public/assets/favicon/favicon96.png"
+  },
+  {
+    "applicationName": "Osmosis",
+    "repoLink": "https://github.com/dghelm/osmosis-frontend/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDqitdFxUxwpXUGvfn3FS-x90OdaUR_b80v3pldJiYx5w",
+    "description": "The first IBC-native Cosmos interchain AMM.",
+    "unofficial": true,
+    "tags": ["cosmos", "defi"],
+    "iconPath": "/public/assets/favicon/favicon96.png"
+  },
+  {
+    "applicationName": "PDF Editor",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQB0OcDJjnuZRS57IhghjVlW5rF3IIIsHQtY3llCibhPTA",
+    "description": "Add images, signatures, text to your PDF. All is done in your browser!",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
+  },
+  {
+    "applicationName": "PancakeSwap",
+    "repoLink": "https://github.com/dghelm/pancake-frontend",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQB3fb5XvcNuNLvB76ycl5Pvm-k0NKMzKUZx_beg3jaPWQ",
+    "description": "Farm CAKE with Pancake LP Tokens",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"],
+    "iconPath": "/favicon.ico"
   },
   {
     "applicationName": "PancakeSwap",
@@ -143,12 +327,30 @@
     "iconPath": "/img/192x192_App_Icon.png"
   },
   {
+    "applicationName": "SVG-Edit",
+    "repoLink": "https://github.com/skunk-ink/svgedit",
+    "author": "https://github.com/SVG-Edit",
+    "resolverSkylink": "AQByWTNclNJp2ndsoE1BTonfgSt85KIPHO49m8Tewjw7mA",
+    "description": "SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.",
+    "tags": ["skynet", "graphics"],
+    "iconPath": "/img/192x192_App_Icon.png"
+  },
+  {
     "applicationName": "Scientific Calculator",
     "repoLink": "https://github.com/skunk-ink/scientific-calculator",
     "author": "https://github.com/wahaaabello",
     "resolverSkylink": "AQAnLl4CdbO58-RQonia4vkiy_xC47ObCWqxRSn_jFw7EA",
     "description": "A web-based scientific calculator written with HTML, CSS & JavaScript.",
-    "tags": ["skynet", "utilities"]
+    "tags": ["skynet", "utilities"],
+    "iconPath": "/img/192x192_App_Icon.png"
+  },
+  {
+    "applicationName": "Screen Recorder",
+    "resolverSkylink": "AQCS3QlOBgS44roh3C-wxG_-iNjb3sHt7NQbLqHuvBHY2A",
+    "description": "Easily record and share your screen with the world!",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-icon-36x36.png"
   },
   {
     "applicationName": "SkyDocs",
@@ -156,7 +358,8 @@
     "author": "https://github.com/michielpost",
     "resolverSkylink": "AQD0HWOp8klMl6SnFfDMKeggvBN9Kaf_8enri-XEhtZYGw",
     "description": "Decentralized document editor.",
-    "tags": ["skynet", "documents"]
+    "tags": ["skynet", "documents"],
+    "iconPath": "/android-chrome-192x192.png"
   },
   {
     "applicationName": "SkyGallery",
@@ -204,101 +407,88 @@
     "iconPath": "/images/192x192_App_Icon.png"
   },
   {
+    "applicationName": "SkyTalk",
+    "resolverSkylink": "AQAbE0gU_4SRZo-mlLFf4kA8Q2QXkfakK3oTH-Vuie7yCg",
+    "description": "Encrypted chat on Skynet",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-512x512.png"
+  },
+  {
     "applicationName": "SkyTransfer",
     "repoLink": "https://github.com/kamy22/skytransfer",
     "author": "https://github.com/kamy22",
     "resolverSkylink": "AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ",
     "description": "Minimal but powerful file sharing platform with AES encryption.",
-    "tags": ["skynet", "file sharing"]
+    "tags": ["skynet", "file sharing"],
+    "iconPath": "/assets/favicon/apple-touch-icon.png"
   },
   {
-    "applicationName": "SVG-Edit",
-    "repoLink": "https://github.com/skunk-ink/svgedit",
-    "author": "https://github.com/SVG-Edit",
-    "resolverSkylink": "AQByWTNclNJp2ndsoE1BTonfgSt85KIPHO49m8Tewjw7mA",
-    "description": "SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.",
-    "tags": ["skynet", "graphics"]
+    "applicationName": "Skyfile Explorer",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQCUMfoh0_AD7TIhn5YtNwhg-SjA9XpIa72MxOJDLS0u2Q",
+    "description": "Explore all types of Skylinks",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
   },
   {
-    "applicationName": "Aave",
-    "repoLink": "https://github.com/dghelm/aave-ui/",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQC5-5u4WrNjpS58r4U3vEP5P1MbNnAzPIY-rxDfcvB77A",
-    "description": "Non-custodial liquidity protocol",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
+    "applicationName": "Skynet Crypto Price Tracker",
+    "resolverSkylink": "AQBQDct4njofUHRFMq7mLM_lSd90EamZYtiO4iWaWa_49A",
+    "description": "Winner of Bingothon 1: Cryptoasset Price Tracking Tool",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/favicon.ico"
   },
   {
-    "applicationName": "Arbitrum Bridge",
-    "repoLink": "https://github.com/dghelm/arb-token-bridge/",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQDhEMjRuvKdECC_cibQ-fUUm7RjRjiZyXotgc2UGFAmuA",
-    "description": "Arbitrum L1/L2 Token Bridge",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
+    "applicationName": "Skynet Image Editor",
+    "resolverSkylink": "AQCEtWIE3ZEaGk6kbg_3Zn0egOj1wZRWufpLc89FVnVFcQ",
+    "description": "Winner of Bingothon 1: Image Editor",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/favicon.ico"
   },
   {
-    "applicationName": "Balancer",
-    "repoLink": "https://github.com/dghelm/frontend-v2/",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQARd_BL9z0i3Gj4yzUBZ7EDZbgkCgZ6XSuTDn0IiPUuQA",
-    "description": "Swap tokens and manage your assets on Balancer Protocol.",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
+    "applicationName": "Skynet Markdown Editor",
+    "resolverSkylink": "AQCkn7GlKQ2zg0Qf9rEdnfqqKloXsXCOYQeP6KQhVN79-Q",
+    "description": "Bingothon Winner #1 for Markdown Renderer",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/favicon.ico"
   },
   {
-    "applicationName": "Compound",
-    "repoLink": "https://github.com/dghelm/palisade/",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA",
-    "description": "Supply or borrow assets from the Compound protocol.",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
+    "applicationName": "Skynet Meme Generator",
+    "resolverSkylink": "AQCz0CswdiNXYXp28wcBnrZP5c2pshsf58AD9o3IB6EI5w",
+    "description": "Winner of Bingothon 1: Meme Generator",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/favicon.ico"
   },
   {
-    "applicationName": "CowSwap",
-    "repoLink": "https://github.com/dghelm/cowswap/",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
-    "description": "A trading interface built on Gnosis Protocol v2.",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
+    "applicationName": "Skynet Presenter",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQDWobMwM-_XCbu4VR7QoqR0NhjXvfdbrj70qqix5JIeVg",
+    "description": "Share and present PDF or ODP presentations on Skynet",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
   },
   {
-    "applicationName": "ENS Manager",
-    "repoLink": "https://github.com/dghelm/ens-app",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQCGKp2BulowHzXAnkwJBeest8l2VDoaXR2G5mjyu5qqqA",
-    "description": "Decentralised naming for wallets, websites, & more.",
-    "unofficial": true,
-    "tags": ["ethereum"]
+    "applicationName": "Skynet Starting Guide",
+    "resolverSkylink": "AQCIcIe2dq4na7MA5Tu7GBdekAgABBj4Z6Q8_2TcmrD0AQ",
+    "description": "A guide for new users and developers alike!",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/img/192x192_App_Icon.png"
   },
   {
-    "applicationName": "Gnosis Safe",
-    "repoLink": "https://github.com/dghelm/safe-react",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQAXVtJqddODZhYGXgnSPDspB4_ggilsJvFBNBFkl-m5VQ",
-    "description": "Allowing crypto users to manage funds in a safer way.",
-    "unofficial": true,
-    "tags": ["ethereum", "dao"]
-  },
-  {
-    "applicationName": "Osmosis",
-    "repoLink": "https://github.com/dghelm/osmosis-frontend/",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQDqitdFxUxwpXUGvfn3FS-x90OdaUR_b80v3pldJiYx5w",
-    "description": "The first IBC-native Cosmos interchain AMM.",
-    "unofficial": true,
-    "tags": ["cosmos", "defi"]
-  },
-  {
-    "applicationName": "PancakeSwap",
-    "repoLink": "https://github.com/dghelm/pancake-frontend",
-    "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQB3fb5XvcNuNLvB76ycl5Pvm-k0NKMzKUZx_beg3jaPWQ",
-    "description": "Farm CAKE with Pancake LP Tokens",
-    "unofficial": true,
-    "tags": ["ethereum", "defi"]
+    "applicationName": "Skysend v4",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQBnCuv4UsAkEGGk6D_enHDsvwY0hdU-IidHCbzbsh2iOA",
+    "description": "An open source, highly secure, private and decentralized way to send and share your files.",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/resources/icon/android-chrome-192x192.png"
   },
   {
     "applicationName": "Swapr",
@@ -317,7 +507,16 @@
     "resolverSkylink": "AQBTlVUdVT_qLqqA_4umNe8aiO6KxoGbfvWzEEk0OyvF7w",
     "description": "Swap or provide liquidity on the Uniswap Protocol.",
     "unofficial": true,
-    "tags": ["ethereum", "defi"]
+    "tags": ["ethereum", "defi"],
+    "iconPath": "/images/192x192_App_Icon.png"
+  },
+  {
+    "applicationName": "Word Counter",
+    "resolverSkylink": "AQDBJ5NVtaXehjTKM_ru1PbLY1LQNh0i_hxNojSlCtFQFA",
+    "description": "Analyse your texts.",
+    "callout": true,
+    "tags": ["bingothon-1"],
+    "iconPath": "/192x192.png"
   },
   {
     "applicationName": "Word Counter",
@@ -325,81 +524,8 @@
     "resolverSkylink": "AQDP77GcO9OeNiC3Obxv64VeJbmfCx4_N8XAmI0ONZKTXA",
     "description": "Count words, characters, lines, sentences and reading time",
     "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Word Counter",
-    "resolverSkylink": "AQDBJ5NVtaXehjTKM_ru1PbLY1LQNh0i_hxNojSlCtFQFA",
-    "description": "Analyse your texts.",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "PDF Editor",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQB0OcDJjnuZRS57IhghjVlW5rF3IIIsHQtY3llCibhPTA",
-    "description": "Add images, signatures, text to your PDF. All is done in your browser!",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skynet Presenter",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQDWobMwM-_XCbu4VR7QoqR0NhjXvfdbrj70qqix5JIeVg",
-    "description": "Share and present PDF or ODP presentations on Skynet",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Colllaborative Text Editor",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQD_6XyRye9Bl3l-_T2ZegXb5yRLTtg36MsjUFnS6ikA5g",
-    "description": "Collaborative, end-to-end-encrypted, decentralized text editor",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skynet Markdown Editor",
-    "resolverSkylink": "AQCkn7GlKQ2zg0Qf9rEdnfqqKloXsXCOYQeP6KQhVN79-Q",
-    "description": "Bingothon Winner #1 for Markdown Renderer",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Markdown Editor",
-    "resolverSkylink": "AQCjrEre4zfRzE1u9sn9cNEBdk4E4lX67StMJkdC35Uh-Q",
-    "description": "Bingothon Winner #2 for Markdown Renderer",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Manga/Comic Reader",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQBs95YOXE73a5FtHUggwoUXHsKBF1lprojnpHKKQK540w",
-    "description": "Bingothon Winner.",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "FancyText",
-    "resolverSkylink": "AQAndLpYJ3MZB8kAZOPw8ex9pJzW6Pj9UvVMyKNkNXUbQw",
-    "description": "Generate fancy text",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Screen Recorder",
-    "resolverSkylink": "AQCS3QlOBgS44roh3C-wxG_-iNjb3sHt7NQbLqHuvBHY2A",
-    "description": "Easily record and share your screen with the world!",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Audio",
-    "resolverSkylink": "AQDxen0EsgB6iEmWDifu5bupr9j98VESiLxvkPUqaQ7HbA",
-    "description": "Record and play audio files",
-    "callout": true,
-    "tags": ["bingothon-1"]
+    "tags": ["bingothon-1"],
+    "iconPath": "/android-chrome-192x192.png"
   },
   {
     "applicationName": "Yap",
@@ -408,95 +534,7 @@
     "resolverSkylink": "AQCrn58EwIKUsZ94r9bXOGauv-KapM77N1wT62jYAXWovw",
     "description": "Record audio and share it with your friends!",
     "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skynet Image Editor",
-    "resolverSkylink": "AQCEtWIE3ZEaGk6kbg_3Zn0egOj1wZRWufpLc89FVnVFcQ",
-    "description": "Winner of Bingothon 1: Image Editor",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skynet Meme Generator",
-    "resolverSkylink": "AQCz0CswdiNXYXp28wcBnrZP5c2pshsf58AD9o3IB6EI5w",
-    "description": "Winner of Bingothon 1: Meme Generator",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skynet Starting Guide",
-    "resolverSkylink": "AQCIcIe2dq4na7MA5Tu7GBdekAgABBj4Z6Q8_2TcmrD0AQ",
-    "description": "A guide for new users and developers alike!",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skyfile Explorer",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQCUMfoh0_AD7TIhn5YtNwhg-SjA9XpIa72MxOJDLS0u2Q",
-    "description": "Explore all types of Skylinks",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Feed Reader",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQCRv_BRd6te7p9dKq09LKF8lm5b4tsbui5aVfb9ZWl9FQ",
-    "description": "Follow content posted on Skynet!",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Friend Manager",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQD8LbcC5RpnQejO-7bBb1RWOwC881RN3UMK62QpNbx0Dg",
-    "description": "Discover new people on Skynet and follow them!",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "JSONParser",
-    "resolverSkylink": "AQDSk2A2WU90V_9Kz4bJNf66z4a9PJZ5qPTzgrBMcNwP_w",
-    "description": "Paste your JSON and see it presented in a pretty format!",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "JSON Formatter",
-    "resolverSkylink": "AQD4tpSYA4eKuoA80zmQlizf2-4jCAmE0O35jl6fcE1Alg",
-    "description": "A little JSON formatter and syntax highlighter",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "SkyTalk",
-    "resolverSkylink": "AQAbE0gU_4SRZo-mlLFf4kA8Q2QXkfakK3oTH-Vuie7yCg",
-    "description": "Encrypted chat on Skynet",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skynet Crypto Price Tracker",
-    "resolverSkylink": "AQBQDct4njofUHRFMq7mLM_lSd90EamZYtiO4iWaWa_49A",
-    "description": "Winner of Bingothon 1: Cryptoasset Price Tracking Tool",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Skysend v4",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQBnCuv4UsAkEGGk6D_enHDsvwY0hdU-IidHCbzbsh2iOA",
-    "description": "An open source, highly secure, private and decentralized way to send and share your files.",
-    "callout": true,
-    "tags": ["bingothon-1"]
-  },
-  {
-    "applicationName": "Image Gallery",
-    "author": "https://github.com/redsolver/",
-    "resolverSkylink": "AQBpspTnMy1QIZf2Ygfh0BOVeqlfnt8-pOfsUFJ-7_85YQ",
-    "description": "Upload, browse and share images, fully end-to-end-encrypted",
-    "callout": true,
-    "tags": ["bingothon-1"]
+    "tags": ["bingothon-1"],
+    "iconPath": "/YapLogo.png"
   }
 ]
