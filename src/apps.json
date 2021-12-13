@@ -161,6 +161,22 @@
     "unofficial": true,
     "tags": ["ethereum", "dao"]
 }, {
+    "applicationName": "KlimaDAO",
+    "repoLink": "https://github.com/dghelm/klimadao",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQC3d8ML3sTj7_HWS4FlVZRHc4Nsy2TVEUgg7R3eui1Q6g",
+    "description": "Drive climate action with an algorithmic digital currency",
+    "unofficial": true,
+    "tags": ["polygon", "defi"]
+}, {
+    "applicationName": "OlympusDAO",
+    "repoLink": "https://github.com/dghelm/olympus-frontend",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQD0mewy_yX9KPI1zDTBi1LQuAXM3xWN7dKORLxTtwCEpQ",
+    "description": "Decentralized reserve currency protocol",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
     "applicationName": "Osmosis",
     "repoLink": "https://github.com/dghelm/osmosis-frontend/",
     "author": "https://github.com/dghelm",
