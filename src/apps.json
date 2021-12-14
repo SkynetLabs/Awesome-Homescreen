@@ -3,7 +3,7 @@
     "applicationName": "1inch",
     "author": "https://github.com/1inch",
     "resolverSkylink": "AQBbKr6XcwHWB3GGKTcn07Wk2wbezb-OFZIqyMUwMSC-qg",
-    "description": "DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
+    "description": "DeFi / DEX aggregator on Ethereum, BSC, Optimism, Polygon, Arbitrum",
     "tags": ["defi", "ethereum", "polygon", "arbitrum", "bsc", "optimism"]
 }, {
     "applicationName": "Auth1",
@@ -45,7 +45,7 @@
     "repoLink": "https://github.com/skunk-ink/Luckysheet",
     "author": "https://github.com/mengshukeji",
     "resolverSkylink": "AQC0wIqnX1fHedyGmsJKTCosSfNqH_qZpUMt1oq2viTRTg",
-    "description": "Luckysheet (Demo only) is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "description": "(Demo only) Online spreadsheet like excel - powerful, simple to configure, and completely open source.",
     "tags": ["skynet", "documents"]
 }, {
     "applicationName": "Rift",
