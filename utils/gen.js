@@ -14,9 +14,11 @@ let addToHomescreen =
 apps.forEach((app) => {
   // Build fields
   let jsonData = {};
-  jsonData['Application'] =
-    '[' + app.applicationName + '](' + app.repoLink + ')';
-  jsonData['Add To Homescreen'] = addToHomescreen + app.resolverSkylink + ')';
+  // Don't create link if repoLink is undefined.
+  jsonData['Application'] = `[${app.applicationName}]${
+    app.repoLink ? '(' + app.repoLink + ')' : ''
+  })`;
+  jsonData['Add To Homescreen'] = `${addToHomescreen}${app.resolverSkylink})`;
   jsonData['Description'] = app.description;
   if (app.unofficial) {
     unofficialApps.push(jsonData);

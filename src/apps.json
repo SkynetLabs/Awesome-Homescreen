@@ -1,5 +1,11 @@
 [{
 
+    "applicationName": "1inch",
+    "author": "https://github.com/1inch",
+    "resolverSkylink": "AQBbKr6XcwHWB3GGKTcn07Wk2wbezb-OFZIqyMUwMSC-qg",
+    "description": "DeFi / DEX aggregator on Ethereum, Binance Smart Chain, Optimism, Polygon, Arbitrum",
+    "tags": ["defi", "ethereum", "polygon", "arbitrum", "bsc", "optimism"]
+}, {
     "applicationName": "Auth1",
     "repoLink": "https://github.com/Delivator/auth1",
     "author": "https://github.com/Delivator",
@@ -7,7 +13,6 @@
     "description": "Decentralized Authenticator App",
     "tags": ["skynet", "utilities"]
 }, {
-
     "applicationName": "Basic Calculator",
     "repoLink": "https://github.com/skunk-ink/Calculator",
     "author": "https://github.com/Doppy12345",
