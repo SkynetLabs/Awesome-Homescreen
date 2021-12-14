@@ -15,9 +15,11 @@ apps.forEach((app) => {
   // Build fields
   let jsonData = {};
   // Don't create link if repoLink is undefined.
-  jsonData['Application'] = `[${app.applicationName}]${
-    app.repoLink ? '(' + app.repoLink + ')' : ''
-  })`;
+  if (app.repoLink) {
+    jsonData['Application'] = `[${app.applicationName}](${app.repoLink})`;
+  } else {
+    jsonData['Application'] = `${app.applicationName}`;
+  }
   jsonData['Add To Homescreen'] = `${addToHomescreen}${app.resolverSkylink})`;
   jsonData['Description'] = app.description;
   if (app.unofficial) {
