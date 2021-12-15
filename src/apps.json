@@ -1,5 +1,13 @@
 [{
 
+    "applicationName": "Auth1",
+    "repoLink": "https://github.com/Delivator/auth1",
+    "author": "https://github.com/Delivator",
+    "resolverSkylink": "AQAsITqIk75Q_LOM--TMmRoys-bBdk04fjao6dnzvAUoMw",
+    "description": "Decentralized Authenticator App",
+    "tags": ["skynet", "utilities"]
+}, {
+
     "applicationName": "Basic Calculator",
     "repoLink": "https://github.com/skunk-ink/Calculator",
     "author": "https://github.com/Doppy12345",
@@ -132,7 +140,7 @@
     "applicationName": "Compound",
     "repoLink": "https://github.com/dghelm/palisade/",
     "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA",
+    "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
     "description": "Supply or borrow assets from the Compound protocol.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
@@ -140,7 +148,7 @@
     "applicationName": "CowSwap",
     "repoLink": "https://github.com/dghelm/cowswap/",
     "author": "https://github.com/dghelm",
-    "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
+    "resolverSkylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA",
     "description": "A trading interface built on Gnosis Protocol v2.",
     "unofficial": true,
     "tags": ["ethereum", "defi"]
