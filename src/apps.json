@@ -1,441 +1,381 @@
-[
-	{
-		"applicationName": "1inch",
-		"author": "https://github.com/1inch",
-		"resolverSkylink": "AQBbKr6XcwHWB3GGKTcn07Wk2wbezb-OFZIqyMUwMSC-qg",
-		"description": "DeFi / DEX aggregator on Ethereum, BSC, Optimism, Polygon, Arbitrum",
-		"tags": ["defi", "ethereum", "polygon", "arbitrum", "bsc", "optimism"]
-	},
-	{
-		"applicationName": "Agora",
-		"author": "https://github.com/TBGLabs",
-		"resolverSkylink": "AQATzLn2zCUxz36Tn81UlH-3959yg3pLcHqZfT2ykNN5jg",
-		"description": "Fully-fledged NFT marketplace on Cronos & Arbitrum",
-		"tags": ["nft", "marketplace", "arbitrum", "cronos"]
-	},
-	{
-		"applicationName": "Auth1",
-		"repoLink": "https://github.com/Delivator/auth1",
-		"author": "https://github.com/Delivator",
-		"resolverSkylink": "AQAsITqIk75Q_LOM--TMmRoys-bBdk04fjao6dnzvAUoMw",
-		"description": "Decentralized Authenticator App",
-		"tags": ["skynet", "utilities"]
-	},
-	{
-		"applicationName": "Basic Calculator",
-		"repoLink": "https://github.com/skunk-ink/Calculator",
-		"author": "https://github.com/Doppy12345",
-		"resolverSkylink": "AQAGUouhot5ni_x0-NEKfQiEliOaiXUaEDY6FleNJsQ_kA",
-		"description": "A web based calculator.",
-		"tags": ["skynet", "utilities"]
-	},
-	{
-		"applicationName": "Chess3D",
-		"repoLink": "https://github.com/skunk-ink/Chess3D",
-		"author": "https://github.com/FrenchYann",
-		"resolverSkylink": "AQBi7_Ln252WtwaI2UcMBdAV46uc9ALUQJ-ITe005LjXUg",
-		"description": "3D Chess Game built with HTML5 and WebGL.",
-		"tags": ["skynet", "games"]
-	},
-	{
-		"applicationName": "Duck Hunt",
-		"repoLink": "https://github.com/skunk-ink/DuckHunt-JS",
-		"author": "https://github.com/MattSurabian",
-		"resolverSkylink": "AQDgyujLpv2i_nHer2pi3prtNNe-g1ghs6rm3D6baD9AyQ",
-		"description": "DuckHunt in Javascript and HTML5.",
-		"tags": ["skynet", "games"]
-	},
-	{
-		"applicationName": "HackerPaste",
-		"repoLink": "https://github.com/harej/hackerpaste",
-		"author": "https://github.com/harej",
-		"resolverSkylink": "_AGCc4-wHTEscwQXTox_95VsHjl-GEwrc7rxGhMXCPStRg",
-		"description": "Is a one-of-a-kind text snippet sharing tool, secure by design and built for the decentralized web.",
-		"tags": ["skynet", "documents"]
-	},
-	{
-		"applicationName": "Luckysheet",
-		"repoLink": "https://github.com/skunk-ink/Luckysheet",
-		"author": "https://github.com/mengshukeji",
-		"resolverSkylink": "AQC0wIqnX1fHedyGmsJKTCosSfNqH_qZpUMt1oq2viTRTg",
-		"description": "(Demo only) Online spreadsheet like excel - powerful, simple to configure, and completely open source.",
-		"tags": ["skynet", "documents"]
-	},
-	{
-		"applicationName": "Rift",
-		"repoLink": "https://github.com/riftdweb/rift",
-		"author": "https://github.com/alexfreska",
-		"resolverSkylink": "EAD7S3bPStozkTtNtzPwFZ2flVP8r2ZXsfyk31Uw4DdOvA",
-		"description": "Decentralized workspace with file editing, social feeds, video streaming, and more.",
-		"tags": ["skynet", "dev tool"]
-	},
-	{
-		"applicationName": "Scientific Calculator",
-		"repoLink": "https://github.com/skunk-ink/scientific-calculator",
-		"author": "https://github.com/wahaaabello",
-		"resolverSkylink": "AQAnLl4CdbO58-RQonia4vkiy_xC47ObCWqxRSn_jFw7EA",
-		"description": "A web-based scientific calculator written with HTML, CSS & JavaScript.",
-		"tags": ["skynet", "utilities"]
-	},
-	{
-		"applicationName": "SkyDocs",
-		"repoLink": "https://github.com/michielpost/SkyDocs",
-		"author": "https://github.com/michielpost",
-		"resolverSkylink": "AQD0HWOp8klMl6SnFfDMKeggvBN9Kaf_8enri-XEhtZYGw",
-		"description": "Decentralized document editor.",
-		"tags": ["skynet", "documents"]
-	},
-	{
-		"applicationName": "SkyGallery",
-		"repoLink": "https://github.com/Delivator/SkyGallery",
-		"author": "https://github.com/Delivator",
-		"resolverSkylink": "AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag",
-		"description": "Media gallery that allows users to share pictures and videos.",
-		"tags": ["skynet", "images"]
-	},
-	{
-		"applicationName": "SkyProfile",
-		"repoLink": "https://github.com/skynethubio/SkyProfile",
-		"author": "https://github.com/skynethubio",
-		"resolverSkylink": "AQDtUqr62iymhTzEUReRpJ4-2RC2ZKqKlGOM7xc-0iPhOw",
-		"description": "MySky user profile management app.",
-		"tags": ["skynet", "utilities"]
-	},
-	{
-		"applicationName": "SkySend",
-		"repoLink": "https://github.com/redsolver/skysend",
-		"author": "https://github.com/redsolver",
-		"resolverSkylink": "AQDikuO5szw9nTHZvvm0jT_iwRIJ74UqyvReNwHePAkqBQ",
-		"description": "Secure, private way to send and share files.",
-		"tags": ["skynet", "file sharing"]
-	},
-	{
-		"applicationName": "SkySolitare",
-		"repoLink": "https://github.com/skunk-ink/solitare3",
-		"author": "https://github.com/MrBomar",
-		"resolverSkylink": "AQDptyePRHP9N6sxJmaeXu_va3tCUgRuUSxUhSIYlNq22A",
-		"description": "Web based version of Solitare.",
-		"tags": ["skynet", "games"]
-	},
-	{
-		"applicationName": "SkySweeper",
-		"repoLink": "https://github.com/skunk-ink/skysweeper",
-		"author": "https://github.com/ShizukuIchi",
-		"resolverSkylink": "AQAnA2L-CmnbuT8qkcSZ1Xkk89zXJ7Ak-QsBcrL9rdnzqg",
-		"description": "Minesweepr in React + Hooks.",
-		"tags": ["skynet", "games"]
-	},
-	{
-		"applicationName": "SkyTransfer",
-		"repoLink": "https://github.com/kamy22/skytransfer",
-		"author": "https://github.com/kamy22",
-		"resolverSkylink": "AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ",
-		"description": "Minimal but powerful file sharing platform with AES encryption.",
-		"tags": ["skynet", "file sharing"]
-	},
-	{
-		"applicationName": "SVG-Edit",
-		"repoLink": "https://github.com/skunk-ink/svgedit",
-		"author": "https://github.com/SVG-Edit",
-		"resolverSkylink": "AQByWTNclNJp2ndsoE1BTonfgSt85KIPHO49m8Tewjw7mA",
-		"description": "SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.",
-		"tags": ["skynet", "graphics"]
-	},
-	{
-		"applicationName": "Aave",
-		"repoLink": "https://github.com/dghelm/aave-ui/",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQC5-5u4WrNjpS58r4U3vEP5P1MbNnAzPIY-rxDfcvB77A",
-		"description": "Non-custodial liquidity protocol",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "Arbitrum Bridge",
-		"repoLink": "https://github.com/dghelm/arb-token-bridge/",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQDhEMjRuvKdECC_cibQ-fUUm7RjRjiZyXotgc2UGFAmuA",
-		"description": "Arbitrum L1/L2 Token Bridge",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "Balancer",
-		"repoLink": "https://github.com/dghelm/frontend-v2/",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQARd_BL9z0i3Gj4yzUBZ7EDZbgkCgZ6XSuTDn0IiPUuQA",
-		"description": "Swap tokens and manage your assets on Balancer Protocol.",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "Compound",
-		"repoLink": "https://github.com/dghelm/palisade/",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
-		"description": "Supply or borrow assets from the Compound protocol.",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "CowSwap",
-		"repoLink": "https://github.com/dghelm/cowswap/",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA",
-		"description": "A trading interface built on Gnosis Protocol v2.",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "ENS Manager",
-		"repoLink": "https://github.com/dghelm/ens-app",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQCGKp2BulowHzXAnkwJBeest8l2VDoaXR2G5mjyu5qqqA",
-		"description": "Decentralised naming for wallets, websites, & more.",
-		"unofficial": true,
-		"tags": ["ethereum"]
-	},
-	{
-		"applicationName": "Gnosis Safe",
-		"repoLink": "https://github.com/dghelm/safe-react",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQAXVtJqddODZhYGXgnSPDspB4_ggilsJvFBNBFkl-m5VQ",
-		"description": "Allowing crypto users to manage funds in a safer way.",
-		"unofficial": true,
-		"tags": ["ethereum", "dao"]
-	},
-	{
-		"applicationName": "KlimaDAO",
-		"repoLink": "https://github.com/dghelm/klimadao",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQC3d8ML3sTj7_HWS4FlVZRHc4Nsy2TVEUgg7R3eui1Q6g",
-		"description": "Drive climate action with an algorithmic digital currency",
-		"unofficial": true,
-		"tags": ["polygon", "defi"]
-	},
-	{
-		"applicationName": "OlympusDAO",
-		"repoLink": "https://github.com/dghelm/olympus-frontend",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQD0mewy_yX9KPI1zDTBi1LQuAXM3xWN7dKORLxTtwCEpQ",
-		"description": "Decentralized reserve currency protocol",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "Osmosis",
-		"repoLink": "https://github.com/dghelm/osmosis-frontend/",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQDqitdFxUxwpXUGvfn3FS-x90OdaUR_b80v3pldJiYx5w",
-		"description": "The first IBC-native Cosmos interchain AMM.",
-		"unofficial": true,
-		"tags": ["cosmos", "defi"]
-	},
-	{
-		"applicationName": "PancakeSwap",
-		"repoLink": "https://github.com/dghelm/pancake-frontend",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQB3fb5XvcNuNLvB76ycl5Pvm-k0NKMzKUZx_beg3jaPWQ",
-		"description": "Farm CAKE with Pancake LP Tokens",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "Swapr",
-		"repoLink": "https://github.com/dghelm/dxswap-dapp",
-		"author": "https://github.com/dghelm",
-		"resolverSkylink": "AQA78StqX5ahskjK2i340c3_46RnIf3FwGicsGuZVjaTfQ",
-		"description": "Decentralized exchange governed by the DXdao.",
-		"unofficial": true,
-		"tags": ["ethereum", "defi", "dxdao"]
-	},
-	{
-		"applicationName": "Uniswap",
-		"repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
-		"author": "https://github.com/SkynetLabs/",
-		"resolverSkylink": "AQBTlVUdVT_qLqqA_4umNe8aiO6KxoGbfvWzEEk0OyvF7w",
-		"description": "Swap or provide liquidity on the Uniswap Protocol.",
-		"unofficial": true,
-		"tags": ["ethereum", "defi"]
-	},
-	{
-		"applicationName": "Word Counter",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQDP77GcO9OeNiC3Obxv64VeJbmfCx4_N8XAmI0ONZKTXA",
-		"description": "Count words, characters, lines, sentences and reading time",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Word Counter",
-		"resolverSkylink": "AQDBJ5NVtaXehjTKM_ru1PbLY1LQNh0i_hxNojSlCtFQFA",
-		"description": "Analyse your texts.",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "PDF Editor",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQB0OcDJjnuZRS57IhghjVlW5rF3IIIsHQtY3llCibhPTA",
-		"description": "Add images, signatures, text to your PDF. All is done in your browser!",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skynet Presenter",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQDWobMwM-_XCbu4VR7QoqR0NhjXvfdbrj70qqix5JIeVg",
-		"description": "Share and present PDF or ODP presentations on Skynet",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Colllaborative Text Editor",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQD_6XyRye9Bl3l-_T2ZegXb5yRLTtg36MsjUFnS6ikA5g",
-		"description": "Collaborative, end-to-end-encrypted, decentralized text editor",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skynet Markdown Editor",
-		"resolverSkylink": "AQCkn7GlKQ2zg0Qf9rEdnfqqKloXsXCOYQeP6KQhVN79-Q",
-		"description": "Bingothon Winner #1 for Markdown Renderer",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Markdown Editor",
-		"resolverSkylink": "AQCjrEre4zfRzE1u9sn9cNEBdk4E4lX67StMJkdC35Uh-Q",
-		"description": "Bingothon Winner #2 for Markdown Renderer",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Manga/Comic Reader",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQBs95YOXE73a5FtHUggwoUXHsKBF1lprojnpHKKQK540w",
-		"description": "Bingothon Winner.",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "FancyText",
-		"resolverSkylink": "AQAndLpYJ3MZB8kAZOPw8ex9pJzW6Pj9UvVMyKNkNXUbQw",
-		"description": "Generate fancy text",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Screen Recorder",
-		"resolverSkylink": "AQCS3QlOBgS44roh3C-wxG_-iNjb3sHt7NQbLqHuvBHY2A",
-		"description": "Easily record and share your screen with the world!",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Audio",
-		"resolverSkylink": "AQDxen0EsgB6iEmWDifu5bupr9j98VESiLxvkPUqaQ7HbA",
-		"description": "Record and play audio files",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Yap",
-		"repoLink": "https://github.com/PAlexanderFranklin/Yap",
-		"author": "https://github.com/PAlexanderFranklin/",
-		"resolverSkylink": "AQCrn58EwIKUsZ94r9bXOGauv-KapM77N1wT62jYAXWovw",
-		"description": "Record audio and share it with your friends!",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skynet Image Editor",
-		"resolverSkylink": "AQCEtWIE3ZEaGk6kbg_3Zn0egOj1wZRWufpLc89FVnVFcQ",
-		"description": "Winner of Bingothon 1: Image Editor",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skynet Meme Generator",
-		"resolverSkylink": "AQCz0CswdiNXYXp28wcBnrZP5c2pshsf58AD9o3IB6EI5w",
-		"description": "Winner of Bingothon 1: Meme Generator",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skynet Starting Guide",
-		"resolverSkylink": "AQCIcIe2dq4na7MA5Tu7GBdekAgABBj4Z6Q8_2TcmrD0AQ",
-		"description": "A guide for new users and developers alike!",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skyfile Explorer",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQCUMfoh0_AD7TIhn5YtNwhg-SjA9XpIa72MxOJDLS0u2Q",
-		"description": "Explore all types of Skylinks",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Feed Reader",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQCRv_BRd6te7p9dKq09LKF8lm5b4tsbui5aVfb9ZWl9FQ",
-		"description": "Follow content posted on Skynet!",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Friend Manager",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQD8LbcC5RpnQejO-7bBb1RWOwC881RN3UMK62QpNbx0Dg",
-		"description": "Discover new people on Skynet and follow them!",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "JSONParser",
-		"resolverSkylink": "AQDSk2A2WU90V_9Kz4bJNf66z4a9PJZ5qPTzgrBMcNwP_w",
-		"description": "Paste your JSON and see it presented in a pretty format!",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "JSON Formatter",
-		"resolverSkylink": "AQD4tpSYA4eKuoA80zmQlizf2-4jCAmE0O35jl6fcE1Alg",
-		"description": "A little JSON formatter and syntax highlighter",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "SkyTalk",
-		"resolverSkylink": "AQAbE0gU_4SRZo-mlLFf4kA8Q2QXkfakK3oTH-Vuie7yCg",
-		"description": "Encrypted chat on Skynet",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skynet Crypto Price Tracker",
-		"resolverSkylink": "AQBQDct4njofUHRFMq7mLM_lSd90EamZYtiO4iWaWa_49A",
-		"description": "Winner of Bingothon 1: Cryptoasset Price Tracking Tool",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Skysend v4",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQBnCuv4UsAkEGGk6D_enHDsvwY0hdU-IidHCbzbsh2iOA",
-		"description": "An open source, highly secure, private and decentralized way to send and share your files.",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	},
-	{
-		"applicationName": "Image Gallery",
-		"author": "https://github.com/redsolver/",
-		"resolverSkylink": "AQBpspTnMy1QIZf2Ygfh0BOVeqlfnt8-pOfsUFJ-7_85YQ",
-		"description": "Upload, browse and share images, fully end-to-end-encrypted",
-		"callout": true,
-		"tags": ["bingothon-1"]
-	}
+[{
+
+    "applicationName": "1inch",
+    "author": "https://github.com/1inch",
+    "resolverSkylink": "AQBbKr6XcwHWB3GGKTcn07Wk2wbezb-OFZIqyMUwMSC-qg",
+    "description": "DeFi / DEX aggregator on Ethereum, BSC, Optimism, Polygon, Arbitrum",
+    "tags": ["defi", "ethereum", "polygon", "arbitrum", "bsc", "optimism"]
+}, {
+    "applicationName": "Auth1",
+    "repoLink": "https://github.com/Delivator/auth1",
+    "author": "https://github.com/Delivator",
+    "resolverSkylink": "AQAsITqIk75Q_LOM--TMmRoys-bBdk04fjao6dnzvAUoMw",
+    "description": "Decentralized Authenticator App",
+    "tags": ["skynet", "utilities"]
+}, {
+    "applicationName": "Basic Calculator",
+    "repoLink": "https://github.com/skunk-ink/Calculator",
+    "author": "https://github.com/Doppy12345",
+    "resolverSkylink": "AQAGUouhot5ni_x0-NEKfQiEliOaiXUaEDY6FleNJsQ_kA",
+    "description": "A web based calculator.",
+    "tags": ["skynet", "utilities"]
+}, {
+    "applicationName": "Chess3D",
+    "repoLink": "https://github.com/skunk-ink/Chess3D",
+    "author": "https://github.com/FrenchYann",
+    "resolverSkylink": "AQBi7_Ln252WtwaI2UcMBdAV46uc9ALUQJ-ITe005LjXUg",
+    "description": "3D Chess Game built with HTML5 and WebGL.",
+    "tags": ["skynet", "games"]
+}, {
+    "applicationName": "Duck Hunt",
+    "repoLink": "https://github.com/skunk-ink/DuckHunt-JS",
+    "author": "https://github.com/MattSurabian",
+    "resolverSkylink": "AQDgyujLpv2i_nHer2pi3prtNNe-g1ghs6rm3D6baD9AyQ",
+    "description": "DuckHunt in Javascript and HTML5.",
+    "tags": ["skynet", "games"]
+}, {
+    "applicationName": "HackerPaste",
+    "repoLink": "https://github.com/harej/hackerpaste",
+    "author": "https://github.com/harej",
+    "resolverSkylink": "_AGCc4-wHTEscwQXTox_95VsHjl-GEwrc7rxGhMXCPStRg",
+    "description": "Is a one-of-a-kind text snippet sharing tool, secure by design and built for the decentralized web.",
+    "tags": ["skynet", "documents"]
+}, {
+    "applicationName": "Luckysheet",
+    "repoLink": "https://github.com/skunk-ink/Luckysheet",
+    "author": "https://github.com/mengshukeji",
+    "resolverSkylink": "AQC0wIqnX1fHedyGmsJKTCosSfNqH_qZpUMt1oq2viTRTg",
+    "description": "(Demo only) Online spreadsheet like excel - powerful, simple to configure, and completely open source.",
+    "tags": ["skynet", "documents"]
+}, {
+    "applicationName": "Rift",
+    "repoLink": "https://github.com/riftdweb/rift",
+    "author": "https://github.com/alexfreska",
+    "resolverSkylink": "EAD7S3bPStozkTtNtzPwFZ2flVP8r2ZXsfyk31Uw4DdOvA",
+    "description": "Decentralized workspace with file editing, social feeds, video streaming, and more.",
+    "tags": ["skynet", "dev tool"]
+}, {
+    "applicationName": "Scientific Calculator",
+    "repoLink": "https://github.com/skunk-ink/scientific-calculator",
+    "author": "https://github.com/wahaaabello",
+    "resolverSkylink": "AQAnLl4CdbO58-RQonia4vkiy_xC47ObCWqxRSn_jFw7EA",
+    "description": "A web-based scientific calculator written with HTML, CSS & JavaScript.",
+    "tags": ["skynet", "utilities"]
+}, {
+    "applicationName": "SkyDocs",
+    "repoLink": "https://github.com/michielpost/SkyDocs",
+    "author": "https://github.com/michielpost",
+    "resolverSkylink": "AQD0HWOp8klMl6SnFfDMKeggvBN9Kaf_8enri-XEhtZYGw",
+    "description": "Decentralized document editor.",
+    "tags": ["skynet", "documents"]
+}, {
+    "applicationName": "SkyGallery",
+    "repoLink": "https://github.com/Delivator/SkyGallery",
+    "author": "https://github.com/Delivator",
+    "resolverSkylink": "AQBj5IcVxgwD4uXJTYC2RqA65daWMNyIDwzif-elDRfuag",
+    "description": "Media gallery that allows users to share pictures and videos.",
+    "tags": ["skynet", "images"]
+}, {
+    "applicationName": "SkyProfile",
+    "repoLink": "https://github.com/skynethubio/SkyProfile",
+    "author": "https://github.com/skynethubio",
+    "resolverSkylink": "AQDtUqr62iymhTzEUReRpJ4-2RC2ZKqKlGOM7xc-0iPhOw",
+    "description": "MySky user profile management app.",
+    "tags": ["skynet", "utilities"]
+}, {
+    "applicationName": "SkySend",
+    "repoLink": "https://github.com/redsolver/skysend",
+    "author": "https://github.com/redsolver",
+    "resolverSkylink": "AQDikuO5szw9nTHZvvm0jT_iwRIJ74UqyvReNwHePAkqBQ",
+    "description": "Secure, private way to send and share files.",
+    "tags": ["skynet", "file sharing"]
+}, {
+    "applicationName": "SkySolitare",
+    "repoLink": "https://github.com/skunk-ink/solitare3",
+    "author": "https://github.com/MrBomar",
+    "resolverSkylink": "AQDptyePRHP9N6sxJmaeXu_va3tCUgRuUSxUhSIYlNq22A",
+    "description": "Web based version of Solitare.",
+    "tags": ["skynet", "games"]
+}, {
+    "applicationName": "SkySweeper",
+    "repoLink": "https://github.com/skunk-ink/skysweeper",
+    "author": "https://github.com/ShizukuIchi",
+    "resolverSkylink": "AQAnA2L-CmnbuT8qkcSZ1Xkk89zXJ7Ak-QsBcrL9rdnzqg",
+    "description": "Minesweepr in React + Hooks.",
+    "tags": ["skynet", "games"]
+}, {
+    "applicationName": "SkyTransfer",
+    "repoLink": "https://github.com/kamy22/skytransfer",
+    "author": "https://github.com/kamy22",
+    "resolverSkylink": "AQAJGCmM4njSUoFx-YNm64Zgea8QYRo-kHHf3Vht04mYBQ",
+    "description": "Minimal but powerful file sharing platform with AES encryption.",
+    "tags": ["skynet", "file sharing"]
+}, {
+    "applicationName": "SVG-Edit",
+    "repoLink": "https://github.com/skunk-ink/svgedit",
+    "author": "https://github.com/SVG-Edit",
+    "resolverSkylink": "AQByWTNclNJp2ndsoE1BTonfgSt85KIPHO49m8Tewjw7mA",
+    "description": "SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.",
+    "tags": ["skynet", "graphics"]
+}, {
+    "applicationName": "Aave",
+    "repoLink": "https://github.com/dghelm/aave-ui/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQC5-5u4WrNjpS58r4U3vEP5P1MbNnAzPIY-rxDfcvB77A",
+    "description": "Non-custodial liquidity protocol",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Arbitrum Bridge",
+    "repoLink": "https://github.com/dghelm/arb-token-bridge/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDhEMjRuvKdECC_cibQ-fUUm7RjRjiZyXotgc2UGFAmuA",
+    "description": "Arbitrum L1/L2 Token Bridge",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Balancer",
+    "repoLink": "https://github.com/dghelm/frontend-v2/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQARd_BL9z0i3Gj4yzUBZ7EDZbgkCgZ6XSuTDn0IiPUuQA",
+    "description": "Swap tokens and manage your assets on Balancer Protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Compound",
+    "repoLink": "https://github.com/dghelm/palisade/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDaZYBJvT6u2CyHziBDEFbhJ_aOIQH_eEqbwwApr9_ryg",
+    "description": "Supply or borrow assets from the Compound protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "CowSwap",
+    "repoLink": "https://github.com/dghelm/cowswap/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA",
+    "description": "A trading interface built on Gnosis Protocol v2.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "ENS Manager",
+    "repoLink": "https://github.com/dghelm/ens-app",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQCGKp2BulowHzXAnkwJBeest8l2VDoaXR2G5mjyu5qqqA",
+    "description": "Decentralised naming for wallets, websites, & more.",
+    "unofficial": true,
+    "tags": ["ethereum"]
+}, {
+    "applicationName": "Gnosis Safe",
+    "repoLink": "https://github.com/dghelm/safe-react",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQAXVtJqddODZhYGXgnSPDspB4_ggilsJvFBNBFkl-m5VQ",
+    "description": "Allowing crypto users to manage funds in a safer way.",
+    "unofficial": true,
+    "tags": ["ethereum", "dao"]
+}, {
+    "applicationName": "KlimaDAO",
+    "repoLink": "https://github.com/dghelm/klimadao",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQC3d8ML3sTj7_HWS4FlVZRHc4Nsy2TVEUgg7R3eui1Q6g",
+    "description": "Drive climate action with an algorithmic digital currency",
+    "unofficial": true,
+    "tags": ["polygon", "defi"]
+}, {
+    "applicationName": "OlympusDAO",
+    "repoLink": "https://github.com/dghelm/olympus-frontend",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQD0mewy_yX9KPI1zDTBi1LQuAXM3xWN7dKORLxTtwCEpQ",
+    "description": "Decentralized reserve currency protocol",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Osmosis",
+    "repoLink": "https://github.com/dghelm/osmosis-frontend/",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQDqitdFxUxwpXUGvfn3FS-x90OdaUR_b80v3pldJiYx5w",
+    "description": "The first IBC-native Cosmos interchain AMM.",
+    "unofficial": true,
+    "tags": ["cosmos", "defi"]
+}, {
+    "applicationName": "PancakeSwap",
+    "repoLink": "https://github.com/dghelm/pancake-frontend",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQB3fb5XvcNuNLvB76ycl5Pvm-k0NKMzKUZx_beg3jaPWQ",
+    "description": "Farm CAKE with Pancake LP Tokens",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Swapr",
+    "repoLink": "https://github.com/dghelm/dxswap-dapp",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQA78StqX5ahskjK2i340c3_46RnIf3FwGicsGuZVjaTfQ",
+    "description": "Decentralized exchange governed by the DXdao.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi", "dxdao"]
+}, {
+    "applicationName": "Uniswap",
+    "repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
+    "author": "https://github.com/SkynetLabs/",
+    "resolverSkylink": "AQBTlVUdVT_qLqqA_4umNe8aiO6KxoGbfvWzEEk0OyvF7w",
+    "description": "Swap or provide liquidity on the Uniswap Protocol.",
+    "unofficial": true,
+    "tags": ["ethereum", "defi"]
+}, {
+    "applicationName": "Word Counter",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQDP77GcO9OeNiC3Obxv64VeJbmfCx4_N8XAmI0ONZKTXA",
+    "description": "Count words, characters, lines, sentences and reading time",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Word Counter",
+    "resolverSkylink": "AQDBJ5NVtaXehjTKM_ru1PbLY1LQNh0i_hxNojSlCtFQFA",
+    "description": "Analyse your texts.",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "PDF Editor",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQB0OcDJjnuZRS57IhghjVlW5rF3IIIsHQtY3llCibhPTA",
+    "description": "Add images, signatures, text to your PDF. All is done in your browser!",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skynet Presenter",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQDWobMwM-_XCbu4VR7QoqR0NhjXvfdbrj70qqix5JIeVg",
+    "description": "Share and present PDF or ODP presentations on Skynet",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Colllaborative Text Editor",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQD_6XyRye9Bl3l-_T2ZegXb5yRLTtg36MsjUFnS6ikA5g",
+    "description": "Collaborative, end-to-end-encrypted, decentralized text editor",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skynet Markdown Editor",
+    "resolverSkylink": "AQCkn7GlKQ2zg0Qf9rEdnfqqKloXsXCOYQeP6KQhVN79-Q",
+    "description": "Bingothon Winner #1 for Markdown Renderer",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Markdown Editor",
+    "resolverSkylink": "AQCjrEre4zfRzE1u9sn9cNEBdk4E4lX67StMJkdC35Uh-Q",
+    "description": "Bingothon Winner #2 for Markdown Renderer",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Manga/Comic Reader",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQBs95YOXE73a5FtHUggwoUXHsKBF1lprojnpHKKQK540w",
+    "description": "Bingothon Winner.",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "FancyText",
+    "resolverSkylink": "AQAndLpYJ3MZB8kAZOPw8ex9pJzW6Pj9UvVMyKNkNXUbQw",
+    "description": "Generate fancy text",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Screen Recorder",
+    "resolverSkylink": "AQCS3QlOBgS44roh3C-wxG_-iNjb3sHt7NQbLqHuvBHY2A",
+    "description": "Easily record and share your screen with the world!",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Audio",
+    "resolverSkylink": "AQDxen0EsgB6iEmWDifu5bupr9j98VESiLxvkPUqaQ7HbA",
+    "description": "Record and play audio files",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Yap",
+    "repoLink": "https://github.com/PAlexanderFranklin/Yap",
+    "author": "https://github.com/PAlexanderFranklin/",
+    "resolverSkylink": "AQCrn58EwIKUsZ94r9bXOGauv-KapM77N1wT62jYAXWovw",
+    "description": "Record audio and share it with your friends!",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skynet Image Editor",
+    "resolverSkylink": "AQCEtWIE3ZEaGk6kbg_3Zn0egOj1wZRWufpLc89FVnVFcQ",
+    "description": "Winner of Bingothon 1: Image Editor",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skynet Meme Generator",
+    "resolverSkylink": "AQCz0CswdiNXYXp28wcBnrZP5c2pshsf58AD9o3IB6EI5w",
+    "description": "Winner of Bingothon 1: Meme Generator",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skynet Starting Guide",
+    "resolverSkylink": "AQCIcIe2dq4na7MA5Tu7GBdekAgABBj4Z6Q8_2TcmrD0AQ",
+    "description": "A guide for new users and developers alike!",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skyfile Explorer",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQCUMfoh0_AD7TIhn5YtNwhg-SjA9XpIa72MxOJDLS0u2Q",
+    "description": "Explore all types of Skylinks",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Feed Reader",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQCRv_BRd6te7p9dKq09LKF8lm5b4tsbui5aVfb9ZWl9FQ",
+    "description": "Follow content posted on Skynet!",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Friend Manager",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQD8LbcC5RpnQejO-7bBb1RWOwC881RN3UMK62QpNbx0Dg",
+    "description": "Discover new people on Skynet and follow them!",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "JSONParser",
+    "resolverSkylink": "AQDSk2A2WU90V_9Kz4bJNf66z4a9PJZ5qPTzgrBMcNwP_w",
+    "description": "Paste your JSON and see it presented in a pretty format!",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "JSON Formatter",
+    "resolverSkylink": "AQD4tpSYA4eKuoA80zmQlizf2-4jCAmE0O35jl6fcE1Alg",
+    "description": "A little JSON formatter and syntax highlighter",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "SkyTalk",
+    "resolverSkylink": "AQAbE0gU_4SRZo-mlLFf4kA8Q2QXkfakK3oTH-Vuie7yCg",
+    "description": "Encrypted chat on Skynet",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skynet Crypto Price Tracker",
+    "resolverSkylink": "AQBQDct4njofUHRFMq7mLM_lSd90EamZYtiO4iWaWa_49A",
+    "description": "Winner of Bingothon 1: Cryptoasset Price Tracking Tool",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Skysend v4",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQBnCuv4UsAkEGGk6D_enHDsvwY0hdU-IidHCbzbsh2iOA",
+    "description": "An open source, highly secure, private and decentralized way to send and share your files.",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}, {
+    "applicationName": "Image Gallery",
+    "author": "https://github.com/redsolver/",
+    "resolverSkylink": "AQBpspTnMy1QIZf2Ygfh0BOVeqlfnt8-pOfsUFJ-7_85YQ",
+    "description": "Upload, browse and share images, fully end-to-end-encrypted",
+    "callout": true,
+    "tags": ["bingothon-1"]
+}
 ]
