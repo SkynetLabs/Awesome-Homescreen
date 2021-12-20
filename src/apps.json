@@ -5,7 +5,14 @@
     "resolverSkylink": "AQBbKr6XcwHWB3GGKTcn07Wk2wbezb-OFZIqyMUwMSC-qg",
     "description": "DeFi / DEX aggregator on Ethereum, BSC, Optimism, Polygon, Arbitrum",
     "tags": ["defi", "ethereum", "polygon", "arbitrum", "bsc", "optimism"]
-}, {
+}, 
+{
+	"applicationName": "Agora",
+	"author": "https://github.com/TBGLabs",
+	"resolverSkylink": "AQATzLn2zCUxz36Tn81UlH-3959yg3pLcHqZfT2ykNN5jg",
+	"description": "Fully-fledged NFT marketplace on Cronos & Arbitrum",
+	"tags": ["nft", "marketplace", "arbitrum", "cronos"]
+},{
     "applicationName": "Auth1",
     "repoLink": "https://github.com/Delivator/auth1",
     "author": "https://github.com/Delivator",
