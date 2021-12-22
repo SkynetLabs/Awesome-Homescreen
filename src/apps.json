@@ -221,6 +221,14 @@
     "unofficial": true,
     "tags": ["ethereum", "defi", "dxdao"]
 }, {
+    "applicationName": "Terra Station",
+    "repoLink": "https://github.com/dghelm/station",
+    "author": "https://github.com/dghelm",
+    "resolverSkylink": "AQBB1GuEXGFOea6pmmyaL_o0XYbN_TNdF3pKYDlaM8KD6A",
+    "description": "Interact with Terra Core",
+    "unofficial": true,
+    "tags": ["terra", "defi", "wallet"]
+}, {
     "applicationName": "Uniswap",
     "repoLink": "https://github.com/SkynetLabs/uniswap-interface/",
     "author": "https://github.com/SkynetLabs/",
