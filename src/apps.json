@@ -46,7 +46,8 @@
     "author": "https://github.com/davay42",
     "resolverSkylink": "AQC7upIKykiM-nYJA6Ac-Q4PHRtYsHDVS1Ne-M2ELcZU2A",
     "description": "GunJS + VueJS p2p apps laboratory and playground.",
-    "tags": ["gun", "vue", "playground"]
+    "tags": ["gun", "vue", "playground"],
+    "unofficial": true
 }, {
     "applicationName": "HackerPaste",
     "repoLink": "https://github.com/harej/hackerpaste",
