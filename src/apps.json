@@ -41,6 +41,14 @@
     "description": "DuckHunt in Javascript and HTML5.",
     "tags": ["skynet", "games"]
 }, {
+    "applicationName": "Gun-Vue",
+    "repoLink": "https://github.com/DeFUCC/gun-vue",
+    "author": "https://github.com/davay42",
+    "resolverSkylink": "AQC7upIKykiM-nYJA6Ac-Q4PHRtYsHDVS1Ne-M2ELcZU2A",
+    "description": "GunJS + VueJS p2p apps laboratory and playground.",
+    "tags": ["gun", "vue", "playground"],
+    "unofficial": true
+}, {
     "applicationName": "HackerPaste",
     "repoLink": "https://github.com/harej/hackerpaste",
     "author": "https://github.com/harej",
